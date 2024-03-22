@@ -58,6 +58,7 @@ The main intention of this project is to provide a platform where all the resear
      - Total 308 Images and 370 QA Pairs
      - Bias category: Region, OCR and Factual
      - Interferance catogary: Image-to-Image and Text-to-Image
+12. Coming sooon..
 
     
 ## Detection
