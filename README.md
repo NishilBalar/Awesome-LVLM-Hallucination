@@ -42,8 +42,24 @@ The main intention of this project is to provide a platform where all the resear
      - LRV-Instruction - positive and negative robust instruction tuning dataset with 400k visual instructions (16 tasks)
      - Negative instruction semantics: (a) Nonexistent Object Manipulation (b) Existent Object Manipulation (c) Knowledge Manipulation
      - GPT4-Assisted Visual Instruction Evaluation (GAVIE)
-8. Coming Soon..
-       
+8. **NOPE**: [Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models](https://arxiv.org/pdf/2310.05338.pdf) (09 October, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - VQA diagnostic benchmark to measure object hallucination with use of 'Negative Pompt' based questions
+     - LLM based generation of 29.5k synthetic negative pronoum (none, no one, nobody. nowhere, neither) dataset
+     - Finding: tendency of VLMs to hallucinate more on data with higher lexical diversity, more scene relavent objects (co-occurance) and large answer copes.
+9. **HallusionBench**: [An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/pdf/2310.14566.pdf) (CVPR 2024) [![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench.svg?style=social&label=Star)](https://github.com/tianyi-lab/HallusionBench)
+     - Language Hallucination + Visual Illusion: 1129 VQA paired with total 346 images
+     - It includes topics such as food, math, geometry, statistics, geography, sports, cartoon, famous illusions, movie, meme, etc. and formats such as including logo, poster, figure, charts, table, map, consecutive images, etc.
+10. **FAITHSCORE**: [Evaluating Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2311.01477.pdf) (02 November, 2023) [![Star](https://img.shields.io/github/stars/bcdnlp/FAITHSCORE.svg?style=social&label=Star)](https://github.com/bcdnlp/FAITHSCORE)
+     - Reference-free and fine-grained evaluation metric
+     - 1) Recognizer : LLM is used for descriptive content identification of LVLM's prediction
+     - 2) Decomposer : LLM is used to generate atomic facts based on recognizer's output
+     - 3) Verifier   : Visual Entailment Model (e.g. OFA) is used to verify atomic facts with input image
+11. **Bingo**: [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/pdf/2311.03287.pdf) (07 November, 2023)  [![Star](https://img.shields.io/github/stars/gzcch/Bingo.svg?style=social&label=Star)](https://github.com/gzcch/Bingo)
+     - Total 308 Images and 370 QA Pairs
+     - Bias category: Region, OCR and Factual
+     - Interferance catogary: Image-to-Image and Text-to-Image
+
+    
 ## Detection
  - will be done soon!
 
