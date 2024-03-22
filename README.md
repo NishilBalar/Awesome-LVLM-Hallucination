@@ -60,6 +60,8 @@ The main intention of this project is to provide a platform where all the resear
      - Interferance catogary: Image-to-Image and Text-to-Image
 12. Coming sooon..
 
+ToDO: AMBER, MERLIM, RAH-Bench, HalE-Switch, FGHE, MOCHa, MMVP, MHaluBench, MAD-Bench, Haö-Eval, VHTest, PhD and so on..
+
     
 ## Detection
  - will be done soon!
