@@ -92,7 +92,7 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 28. **IVL-Hallu**: [PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/pdf/2403.11116.pdf) (17 March, 2024) [![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star)](https://github.com/jiazhen-code/IntrinsicHallu)
      - soon
-29. Up to Date and SOTA new research work loading...
+29. Up to Date and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -109,7 +109,7 @@ Note: 'soon' will be replaced with brief description!
 5. **LogicCheckGPT**: [Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2402.11622.pdf) (18 february, 2024)  [![Star](https://img.shields.io/github/stars/Hyperwjf/LogicCheckGPT.svg?style=social&label=Star)](https://github.com/Hyperwjf/LogicCheckGPT)
 6. **UNIHD**: [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/pdf/2402.03190.pdf) (20 February, 2024) [![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star)](https://github.com/OpenKG-ORG/EasyDetect)
      - soon
-7. Up to Date and SOTA new research work loading...
+7. Up to Date and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
