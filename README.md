@@ -162,7 +162,7 @@ Note: 'soon' will be replaced with brief description!
      - soon
 20. To be Continue...
  
- - will be done soon!
+Note: 'soon' will be replaced with brief description! 
    
 ## Survey
  - will be done soon!
