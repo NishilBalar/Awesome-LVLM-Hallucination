@@ -92,7 +92,7 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 28. **IVL-Hallu**: [PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/pdf/2403.11116.pdf) (17 March, 2024) [![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star)](https://github.com/jiazhen-code/IntrinsicHallu)
      - soon
-29. Up to Date and SOTA research work loading...
+29. Up to Date (27th March) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -113,7 +113,7 @@ Note: 'soon' will be replaced with brief description!
      - Experimental analysis on POPE and MME benchmark     
 6. **UNIHD**: [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/pdf/2402.03190.pdf) (20 February, 2024) [![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star)](https://github.com/OpenKG-ORG/EasyDetect)
      - soon
-7. Up to Date and SOTA research work loading...
+7. Up to Date (27th March) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -203,7 +203,7 @@ Note: 'soon' will be replaced with brief description!
      - soon
 37. **ESREAL**: [Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models](https://arxiv.org/pdf/2403.16167.pdf) (26 March, 2024)
      - soon
-38. Up to Date and SOTA research work loading...
+38. Up to Date (27th March) and SOTA research work loading...
  
 Note: 'soon' will be replaced with brief description! 
    
