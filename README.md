@@ -208,4 +208,7 @@ Note: 'soon' will be replaced with brief description!
 Note: 'soon' will be replaced with brief description! 
    
 ## Survey
- - will be done soon!
+1. [DEEP LEARNING APPROACHES ON IMAGE CAPTIONING: A REVIEW](https://arxiv.org/pdf/2201.12944.pdf) (22 August, 2023)
+2. [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2402.00253.pdf) (1 February, 2024)
+3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
+4. Up to Date (27th March) and SOTA research work loading...
