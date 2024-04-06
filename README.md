@@ -92,7 +92,7 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 28. **IVL-Hallu**: [PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/pdf/2403.11116.pdf) (17 March, 2024) [![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star)](https://github.com/jiazhen-code/IntrinsicHallu)
      - soon
-29. Up to Date (28th March) and SOTA research work loading...
+29. Up to Date (06th April) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -113,7 +113,7 @@ Note: 'soon' will be replaced with brief description!
      - Experimental analysis on POPE and MME benchmark     
 6. **UNIHD**: [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/pdf/2402.03190.pdf) (20 February, 2024) [![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star)](https://github.com/OpenKG-ORG/EasyDetect)
      - soon
-7. Up to Date (28th March) and SOTA research work loading...
+7. Up to Date (06th April) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -206,7 +206,7 @@ Note: 'soon' will be replaced with brief description!
 38. **ICD**: [Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://arxiv.org/pdf/2403.18715.pdf) (27 March, 2024)
      - decoding strategy
      - soon
-39. Up to Date (28th March) and SOTA research work loading...
+39. Up to Date (06th April) and SOTA research work loading...
  
 Note: 'soon' will be replaced with brief description! 
    
@@ -214,4 +214,4 @@ Note: 'soon' will be replaced with brief description!
 1. [DEEP LEARNING APPROACHES ON IMAGE CAPTIONING: A REVIEW](https://arxiv.org/pdf/2201.12944.pdf) (22 August, 2023)
 2. [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2402.00253.pdf) (1 February, 2024)
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
-4. Up to Date (28th March) and SOTA research work loading...
+4. Up to Date (06th April) and SOTA research work loading...
