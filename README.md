@@ -212,7 +212,7 @@ Note: 'soon' will be replaced with brief description!
 38. **ICD**: [Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://arxiv.org/pdf/2403.18715.pdf) (27 March, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - decoding strategy
      - soon
-39. **FGAIF**: [Aligning Large Vision-Language Models with Fine-grained AI Feedback](https://arxiv.org/pdf/2404.05046.pdf) (7 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+39. **FGAIF**: [Aligning Large Vision-Language Models with Fine-grained AI Feedback](https://arxiv.org/pdf/2404.05046.pdf) (07 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
 40. **Prescribing the Right Remedy**: [Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning](https://arxiv.org/pdf/2404.10332.pdf) (16 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
@@ -224,7 +224,8 @@ Note: 'soon' will be replaced with brief description!
      - soon
 44. **HSA-DPO**: [Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/pdf/2404.14233) (22 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-45. 
+45. **Visual Fact Checker**: [Enabling High-Fidelity Detailed Caption Generation](https://arxiv.org/pdf/2404.19752) (30 April - CVPR 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
 46. Up to Date (07th May) and SOTA research work loading...
  
 Note: 'soon' will be replaced with brief description! 
