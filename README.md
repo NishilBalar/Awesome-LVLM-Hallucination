@@ -94,7 +94,9 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 29. **ALOHa**: [A New Measure for Hallucination in Captioning Models](https://arxiv.org/pdf/2404.02904v1.pdf) (3 April, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon 
-30. Up to Date (20th April) and SOTA research work loading...
+30. **VALOR-EVAL**: [Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2404.13874) (22 April, 2024) [![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star)](https://github.com/haoyiq114/VALOR)
+     - soon 
+31. Up to Date (07th May) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -115,7 +117,9 @@ Note: 'soon' will be replaced with brief description!
      - Experimental analysis on POPE and MME benchmark     
 6. **UNIHD**: [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/pdf/2402.03190.pdf) (20 February, 2024) [![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star)](https://github.com/OpenKG-ORG/EasyDetect)
      - soon
-7. Up to Date (20th April) and SOTA research work loading...
+7. [Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/pdf/2404.14233) (22 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+8. Up to Date (07th May) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -212,7 +216,16 @@ Note: 'soon' will be replaced with brief description!
      - soon
 40. **Prescribing the Right Remedy**: [Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning](https://arxiv.org/pdf/2404.10332.pdf) (16 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-41. Up to Date (20th April) and SOTA research work loading...
+41. **FACT**: [Teaching MLLMs with Faithful, Concise and Transferable Rationales](https://arxiv.org/pdf/2404.11129) (17 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+42. **TVP**: [Exploring the Transferability of Visual Prompting for Multimodal Large Language Models](https://arxiv.org/pdf/2404.11207) (17 April, 2024) [![Star](https://img.shields.io/github/stars/zycheiheihei/Transferable-Visual-Prompting.svg?style=social&label=Star)](https://github.com/zycheiheihei/Transferable-Visual-Prompting)
+     - soon
+43. **TextSquare**: [Scaling up Text-Centric Visual Instruction Tuning](https://arxiv.org/pdf/2404.12803) (19th April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+44. **HSA-DPO**: [Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/pdf/2404.14233) (22 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+45. 
+46. Up to Date (07th May) and SOTA research work loading...
  
 Note: 'soon' will be replaced with brief description! 
    
@@ -220,4 +233,5 @@ Note: 'soon' will be replaced with brief description!
 1. [DEEP LEARNING APPROACHES ON IMAGE CAPTIONING: A REVIEW](https://arxiv.org/pdf/2201.12944.pdf) (22 August, 2023)
 2. [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2402.00253.pdf) (1 February, 2024)
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
-4. Up to Date (20th April) and SOTA research work loading...
+4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
+5. Up to Date (07th May) and SOTA research work loading...
