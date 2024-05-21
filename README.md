@@ -61,7 +61,9 @@ The main intention of this project is to provide a platform where all the resear
      - Bias category: Region, OCR and Factual
      - Interferance catogary: Image-to-Image and Text-to-Image
 13. **AMBER**: [An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation](https://arxiv.org/pdf/2311.07397.pdf) (13 November, 2023) [![Star](https://img.shields.io/github/stars/junyangwang0410/AMBER.svg?style=social&label=Star)](https://github.com/junyangwang0410/AMBER)
-     - soon
+     - LLM free evaluation of hallucination using AMBER benchmark
+     - Evaluation of hallucination for generative and discriminative task using AMBERSCORE metric (covers existence, attributes and relation types of hallucination)
+     - Includes hallucinatory target objects (more likely to be imagined by LVLMs)
 14. **RAH-Bench**: [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) (27 Novemebr, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
 15. **Behind the Magic, MERLIM**: [Multi-modal Evaluation Benchmark for Large Image-Language Models](https://arxiv.org/pdf/2312.02219.pdf) (03 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/ojedaf/MERLIM.svg?style=social&label=Star)](https://github.com/ojedaf/MERLIM)
@@ -116,7 +118,8 @@ Note: 'soon' will be replaced with brief description!
           - Object extraction, Object-to-Attribute inquiring, Attribute-to-Object inquiring, Logic closed llop check and Hallucination detection and mitigation 
      - Experimental analysis on POPE and MME benchmark     
 6. **UNIHD**: [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/pdf/2402.03190.pdf) (20 February, 2024) [![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star)](https://github.com/OpenKG-ORG/EasyDetect)
-     - soon
+     - Introduce a meta evaluation benchmark called MHALUBENCH
+     - Introduce a framework named UNIHD which detect modality-conflicting hallucinations at various levels such as object, attribute, and scene-text, as well as fact-conflicting hallucinations
 7. [Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/pdf/2404.14233) (22 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
 8. Up to Date (07th May) and SOTA research work loading...
@@ -124,8 +127,10 @@ Note: 'soon' will be replaced with brief description!
 Note: 'soon' will be replaced with brief description! 
 
 ## Mitigation
-1. **ObjMLM**: [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/pdf/2210.07688.pdf) (10 February 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-     - soon
+1. **ObjMLM**: [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/pdf/2210.07688.pdf) (10 February 2023) [![Star](https://img.shields.io/github/stars/wenliangdai/VLP-Object-Hallucination.svg?style=social&label=Star)](https://github.com/wenliangdai/VLP-Object-Hallucination)
+     - Deals with object hallucination problem of VLMs
+     - Discuss the influence of various Vision Language Pretraining (VLP) objective (ITM, ITC and ICLM) and Image encoding methods (region-based, grid-based, and patch-based) on object hallucination
+     - Introduce novel VLP objective ObjMLM to mitigate object hallucination
 2. **MMCoT**: [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923.pdf) (17 February 2023) [![Star](https://img.shields.io/github/stars/amazon-science/mm-cot.svg?style=social&label=Star)](https://github.com/amazon-science/mm-cot)
      - soon
 3. **LRV-GAVIE**: [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) (26 June, 2023)  [![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star)](https://github.com/FuxiaoLiu/LRV-Instruction)
