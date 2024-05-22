@@ -65,7 +65,9 @@ The main intention of this project is to provide a platform where all the resear
      - Evaluation of hallucination for generative and discriminative task using AMBERSCORE metric (covers existence, attributes and relation types of hallucination)
      - Includes hallucinatory target objects (more likely to be imagined by LVLMs)
 14. **RAH-Bench**: [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) (27 Novemebr, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-     - soon
+     - Introduce fine-grained vision instruction dataset named RAI-30K (built upon panoptic scene graph dataset (PSG))
+     - RAH-BENCH vision hallucination evaluation benchmark (3 types: Categorial, Relation and Attribute Hallucination)
+     - False Positive Rates as evaluation metric
 15. **Behind the Magic, MERLIM**: [Multi-modal Evaluation Benchmark for Large Image-Language Models](https://arxiv.org/pdf/2312.02219.pdf) (03 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/ojedaf/MERLIM.svg?style=social&label=Star)](https://github.com/ojedaf/MERLIM)
      - soon
 16. **CCEval**: [HallE-Switch: Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/pdf/2310.01779.pdf) (03 Decemebr, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
@@ -105,9 +107,14 @@ Note: 'soon' will be replaced with brief description!
     
 ## Detection
 1. **FPDO - Reward Model**: [Detecting and Preventing Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2308.06394.pdf) (AAAI 2024) [![Star](https://img.shields.io/github/stars/hendryx-scale/mhal-detect.svg?style=social&label=Star)](https://github.com/hendryx-scale/mhal-detect)
-     - soon
+     - M-HalDetect - Hallucination detection dataset with fine-grained annotations [accurate, inaccurate and analysis]
+     - Fine-grained Direct Preference Optimization (FDPO) technique and reward model trained on introduced dataset
+     - High correlation of reward model score with human evaluation
 2. **HaELM**: [Evaluation and Analysis of Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2308.15126.pdf) (29 August, 2023) [![Star](https://img.shields.io/github/stars/junyangwang0410/HaELM.svg?style=social&label=Star)](https://github.com/junyangwang0410/HaELM)
-     - soon
+     - Discussed LVLMs tendency to response as 'Yes' to judgement type queries
+     - Use of ChatGPT to collect hallucination data via iterative prompt modification
+     - Open-source LLM trained over this dataset for evaluation of LVLM's response
+     - Evaluation results on various LVLMs, Generation length and Top-K of sampling
 3. **HallE-Switch**: [Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/abs/2310.01779) (3 October, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
      - soon
 4. **HalluciDoctor**: [Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/pdf/2311.13614.pdf) (22 November, 2023)  [![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star)](https://github.com/Yuqifan1117/HalluciDoctor)
@@ -132,7 +139,9 @@ Note: 'soon' will be replaced with brief description!
      - Discuss the influence of various Vision Language Pretraining (VLP) objective (ITM, ITC and ICLM) and Image encoding methods (region-based, grid-based, and patch-based) on object hallucination
      - Introduce novel VLP objective ObjMLM to mitigate object hallucination
 2. **MMCoT**: [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923.pdf) (17 February 2023) [![Star](https://img.shields.io/github/stars/amazon-science/mm-cot.svg?style=social&label=Star)](https://github.com/amazon-science/mm-cot)
-     - soon
+     - Two stage framework by finetuning language models to perform Multimodal chain-of-thoughts (CoT) which incorporates language (text) and vision (images) modalities
+     - Claims state-of-the-art performance of model under 1 billion parameters on ScienceQA benchmark
+     - Multimodal-CoT has the merits of mitigating hallucination and enhancing convergence speed
 3. **LRV-GAVIE**: [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) (26 June, 2023)  [![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star)](https://github.com/FuxiaoLiu/LRV-Instruction)
      - soon
 4. **LLaVA-RLHF**: [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/pdf/2309.14525.pdf) (25 September, 2023) [![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star)](https://github.com/llava-rlhf/LLaVA-RLHF)
