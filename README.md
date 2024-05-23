@@ -39,7 +39,9 @@ The main intention of this project is to provide a platform where all the resear
      - Automatic construction of question-answer pair with based on dataset with caption annotation using ChatGPT [Yes/No QA pair] and automatic pipeline for evaluation
      - Constractive instruction tuning (CIT) with Factual and Constractive QA pairs with Chain-of-Thought (CoT) justification
 7. **MMHAL-BENCH**: [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/pdf/2309.14525.pdf) (25 September, 2023) [![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star)](https://github.com/llava-rlhf/LLaVA-RLHF) 
-     - soon
+     - Introduced novel algorithm called Factually Augmented RLHF (Fact-RLHF) to alleviate the reward hacking phenomenon in RLHF
+     - Developed evaluation benchmark MMHAL-BENCH with a special focus on penalizing hallucinations
+     - Trained a LLM with RLHF (Llava-RLHF) which shows improved multimodal alignment
 8. **LRV (GAVIE)**: [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) (29 September, 2023) [![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star)](https://github.com/FuxiaoLiu/LRV-Instruction)
      - LRV-Instruction - positive and negative robust instruction tuning dataset with 400k visual instructions (16 tasks)
      - Negative instruction semantics: (a) Nonexistent Object Manipulation (b) Existent Object Manipulation (c) Knowledge Manipulation
@@ -69,7 +71,9 @@ The main intention of this project is to provide a platform where all the resear
      - RAH-BENCH vision hallucination evaluation benchmark (3 types: Categorial, Relation and Attribute Hallucination)
      - False Positive Rates as evaluation metric
 15. **Behind the Magic, MERLIM**: [Multi-modal Evaluation Benchmark for Large Image-Language Models](https://arxiv.org/pdf/2312.02219.pdf) (03 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/ojedaf/MERLIM.svg?style=social&label=Star)](https://github.com/ojedaf/MERLIM)
-     - soon
+     - Proposed a novel test-bed to evaluate IT-LVLMs (Instruction Tuning Large Vision and Language models) on core computer vision tasks
+     - Observed poor performance of IT-LVLMs with multiple failure cases in visual grounding
+     - Identify problems with IT-LVLMSs like generation of hallucinatory events and sensitivity to the input query 
 16. **CCEval**: [HallE-Switch: Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/pdf/2310.01779.pdf) (03 Decemebr, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
      - soon
 17. **FGHE**: [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) (04 December, 2023) [![Star](https://img.shields.io/github/stars/Anonymousanoy/FOHE.svg?style=social&label=Star)](https://github.com/Anonymousanoy/FOHE)
@@ -143,9 +147,13 @@ Note: 'soon' will be replaced with brief description!
      - Claims state-of-the-art performance of model under 1 billion parameters on ScienceQA benchmark
      - Multimodal-CoT has the merits of mitigating hallucination and enhancing convergence speed
 3. **LRV-GAVIE**: [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) (26 June, 2023)  [![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star)](https://github.com/FuxiaoLiu/LRV-Instruction)
-     - soon
+     - LRV-Instruction - positive and negative robust instruction tuning dataset with 400k visual instructions (16 tasks)
+     - Negative instruction semantics: (a) Nonexistent Object Manipulation (b) Existent Object Manipulation (c) Knowledge Manipulation
+     - GPT4-Assisted Visual Instruction Evaluation (GAVIE)
 4. **LLaVA-RLHF**: [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/pdf/2309.14525.pdf) (25 September, 2023) [![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star)](https://github.com/llava-rlhf/LLaVA-RLHF)
-     - soon
+     - Introduced novel algorithm called Factually Augmented RLHF (Fact-RLHF) to alleviate the reward hacking phenomenon in RLHF
+     - Developed evaluation benchmark MMHAL-BENCH with a special focus on penalizing hallucinations
+     - Trained a LLM with RLHF (Llava-RLHF) which shows improved multimodal alignment
 5. **LURE**: [Analyzing and Mitigating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2310.00754.pdf) (01 October, 2023) [![Star](https://img.shields.io/github/stars/YiyangZhou/LURE.svg?style=social&label=Star)](https://github.com/YiyangZhou/LURE)
      - quite famous method
      - soon 
