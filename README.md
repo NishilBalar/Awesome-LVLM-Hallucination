@@ -123,9 +123,14 @@ Note: 'soon' will be replaced with brief description!
      - Open-source LLM trained over this dataset for evaluation of LVLM's response
      - Evaluation results on various LVLMs, Generation length and Top-K of sampling
 3. **HallE-Switch**: [Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/abs/2310.01779) (3 October, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
-     - soon
+     - Suggest an approach to control object existence hallucination in detailed captions of LVLM
+     - Introduced CCEval which is a GPT-4 assisted evaluation method for detailed captioning (Metrics: CHAIR(i&s), Coverage, Average Length, Average Objects)
+     - Detailed investigation on LVLM's component that might imfluence hallucination such as alignment of language decoder, volume of instruction data, resolution of input image and so on
+     - Introduced a controlling parameters over LLMs (HallE-Control) to condition the inference of objects 
 4. **HalluciDoctor**: [Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/pdf/2311.13614.pdf) (22 November, 2023)  [![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star)](https://github.com/Yuqifan1117/HalluciDoctor)
-     - soon
+     - Investigates hallucination toxicity in already existing visual instruction dataset
+     - Proposed HalluciDoctor method for automatic elimination of such toxicity
+     - Generation of more counterfactual instruction data  with help of HalluciDoctor to improve LVLMs' resistance to hallucination
 5. **LogicCheckGPT**: [Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2402.11622.pdf) (18 february, 2024)  [![Star](https://img.shields.io/github/stars/Hyperwjf/LogicCheckGPT.svg?style=social&label=Star)](https://github.com/Hyperwjf/LogicCheckGPT)
      - Postprocessing output description of LVLMs
      - 5 steps logical loop procedure such as
@@ -158,16 +163,23 @@ Note: 'soon' will be replaced with brief description!
      - Developed evaluation benchmark MMHAL-BENCH with a special focus on penalizing hallucinations
      - Trained a LLM with RLHF (Llava-RLHF) which shows improved multimodal alignment
 5. **LURE**: [Analyzing and Mitigating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2310.00754.pdf) (01 October, 2023) [![Star](https://img.shields.io/github/stars/YiyangZhou/LURE.svg?style=social&label=Star)](https://github.com/YiyangZhou/LURE)
-     - quite famous method
-     - soon 
+     - Introduced LURE framework which is lightweight and compatible post-hoc approach for rectifying object hallucination in LVLMs
+     - Statstical analysis of Co-occurence of objects, object uncertainity and object position in generated description which might correlate with object hallucination
+     - Uncertain objects are put as placeholder with <IDK> tokens while training LURE and while infernece (for revision)
+     - Really popular method
 6. **HallE-Switch**: [Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/pdf/2310.01779.pdf) (3 October, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
-     - soon
+     - Suggest an approach to control object existence hallucination in detailed captions of LVLM
+     - Introduced CCEval which is a GPT-4 assisted evaluation method for detailed captioning (Metrics: CHAIR(i&s), Coverage, Average Length, Average Objects)
+     - Detailed investigation on LVLM's component that might imfluence hallucination such as alignment of language decoder, volume of instruction data, resolution of input image and so on
+     - Introduced a controlling parameters over LLMs (HallE-Control) to condition the inference of objects 
 7. **Woodpecker**: [Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/abs/2310.16045) (24 October, 2023) [![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)
      - soon
 8. **VOLCANO**: [Mitigating Multimodal Hallucination through Self-Feedback Guided Revision](https://arxiv.org/pdf/2311.07362.pdf) (14 November, 2023)  [![Star](https://img.shields.io/github/stars/kaistAI/Volcano.svg?style=social&label=Star)](https://github.com/kaistAI/Volcano)
      - soon
 9. **HalluciDoctor**: [Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/pdf/2311.13614.pdf) (22 November, 2023)  [![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star)](https://github.com/Yuqifan1117/HalluciDoctor)
-     - soon
+     - Investigates hallucination toxicity in already existing visual instruction dataset
+     - Proposed HalluciDoctor method for automatic elimination of such toxicity
+     - Generation of more counterfactual instruction data  with help of HalluciDoctor to improve LVLMs' resistance to hallucination
 10. **RAH-Bench**: [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) (27 Novemebr, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
 11. **HA-DPO**: [Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization](https://arxiv.org/pdf/2311.16839.pdf) (28 November, 2023) [![Star](https://img.shields.io/github/stars/opendatalab/HA-DPO.svg?style=social&label=Star)](https://github.com/opendatalab/HA-DPO)
