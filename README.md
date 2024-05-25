@@ -75,7 +75,10 @@ The main intention of this project is to provide a platform where all the resear
      - Observed poor performance of IT-LVLMs with multiple failure cases in visual grounding
      - Identify problems with IT-LVLMSs like generation of hallucinatory events and sensitivity to the input query 
 16. **CCEval**: [HallE-Switch: Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/pdf/2310.01779.pdf) (03 Decemebr, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
-     - soon
+     - Suggest an approach to control object existence hallucination in detailed captions of LVLM
+     - Introduced CCEval which is a GPT-4 assisted evaluation method for detailed captioning (Metrics: CHAIR(i&s), Coverage, Average Length, Average Objects)
+     - Detailed investigation on LVLM's component that might imfluence hallucination such as alignment of language decoder, volume of instruction data, resolution of input image and so on
+     - Introduced a controlling parameters over LLMs (HallE-Control) to condition the inference of objects 
 17. **FGHE**: [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) (04 December, 2023) [![Star](https://img.shields.io/github/stars/Anonymousanoy/FOHE.svg?style=social&label=Star)](https://github.com/Anonymousanoy/FOHE)
      - soon
 18. **OpenCHAIR**: [Mitigating Open-Vocabulary Caption Hallucinations](https://arxiv.org/pdf/2312.03631.pdf)  (06 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/assafbk/mocha_code.svg?style=social&label=Star)](https://github.com/assafbk/mocha_code)
