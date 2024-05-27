@@ -107,7 +107,11 @@ The main intention of this project is to provide a platform where all the resear
      - soon 
 30. **VALOR-EVAL**: [Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2404.13874) (22 April, 2024) [![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star)](https://github.com/haoyiq114/VALOR)
      - soon 
-31. Up to Date (07th May) and SOTA research work loading...
+31. **THRONE**: [An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/pdf/2405.05256) (08 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+32. **MRHal-Bench**: [Automated Multi-level Preference for MLLMs](https://arxiv.org/pdf/2405.11165) (18 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+33. Up to Date (27th May) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -141,7 +145,7 @@ Note: 'soon' will be replaced with brief description!
      - Introduce a framework named UNIHD which detect modality-conflicting hallucinations at various levels such as object, attribute, and scene-text, as well as fact-conflicting hallucinations
 7. [Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/pdf/2404.14233) (22 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-8. Up to Date (07th May) and SOTA research work loading...
+8. Up to Date (27th May) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -263,7 +267,13 @@ Note: 'soon' will be replaced with brief description!
      - soon
 45. **Visual Fact Checker**: [Enabling High-Fidelity Detailed Caption Generation](https://arxiv.org/pdf/2404.19752) (30 April - CVPR 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-46. Up to Date (07th May) and SOTA research work loading...
+46. **CSR**: [Calibrated Self-Rewarding Vision Language Models](https://arxiv.org/pdf/2405.14622) (23 May, 2024) [![Star](https://img.shields.io/github/stars/YiyangZhou/CSR.svg?style=social&label=Star)](https://github.com/YiyangZhou/CSR)
+     - soon
+47. **HIO**: [Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization](https://arxiv.org/pdf/2405.15356) (24 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+48. **VDGD**: [Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap](https://arxiv.org/pdf/2405.15683) (24 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+49. Up to Date (27th May) and SOTA research work loading...
  
 Note: 'soon' will be replaced with brief description! 
    
@@ -272,4 +282,5 @@ Note: 'soon' will be replaced with brief description!
 2. [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2402.00253.pdf) (1 February, 2024)
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
-5. Up to Date (07th May) and SOTA research work loading...
+5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
+6. Up to Date (27th May) and SOTA research work loading...
