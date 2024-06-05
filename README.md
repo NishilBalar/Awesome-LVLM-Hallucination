@@ -52,7 +52,7 @@ The main intention of this project is to provide a platform where all the resear
      - Finding: tendency of VLMs to hallucinate more on data with higher lexical diversity, more scene relavent objects (co-occurance) and large answer copes.
 10. **HallusionBench**: [An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/pdf/2310.14566.pdf) (CVPR 2024) [![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench.svg?style=social&label=Star)](https://github.com/tianyi-lab/HallusionBench)
      - Language Hallucination + Visual Illusion: 1129 VQA paired with total 346 images
-     - It includes topics such as food, math, geometry, statistics, geography, sports, cartoon, famous illusions, movie, meme, etc. and formats such as including logo, poster, figure, charts, table, map, consecutive images, etc.
+     - It includes topics such as food, math, geometry, statistics, geography, sports, cartoon, famous illusions, movie, meme, etc. and formats such as including logo, poster, figure, charts, table, map, consecutive images, etc.
 11. **FAITHSCORE**: [Evaluating Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2311.01477.pdf) (02 November, 2023) [![Star](https://img.shields.io/github/stars/bcdnlp/FAITHSCORE.svg?style=social&label=Star)](https://github.com/bcdnlp/FAITHSCORE)
      - Reference-free and fine-grained evaluation metric
      - 1) Recognizer : LLM is used for descriptive content identification of LVLM's prediction
@@ -80,7 +80,9 @@ The main intention of this project is to provide a platform where all the resear
      - Detailed investigation on LVLM's component that might imfluence hallucination such as alignment of language decoder, volume of instruction data, resolution of input image and so on
      - Introduced a controlling parameters over LLMs (HallE-Control) to condition the inference of objects 
 17. **FGHE**: [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) (04 December, 2023) [![Star](https://img.shields.io/github/stars/Anonymousanoy/FOHE.svg?style=social&label=Star)](https://github.com/Anonymousanoy/FOHE)
-     - soon
+     - Dealing with fine-grained object hallucination with ReCaption framework 
+     - Two stage frame work : 1) Caption generation with help of ChatGPT 2) Finetuning LVLMs on generated captions
+     - Inroduced Fine-Grained Object Hallucination Evaluation (FGHE) which similar to POPE. (manually annotted 50 images with 200 binary questions with type multi-object, attributes and behaviour)
 18. **OpenCHAIR**: [Mitigating Open-Vocabulary Caption Hallucinations](https://arxiv.org/pdf/2312.03631.pdf)  (06 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/assafbk/mocha_code.svg?style=social&label=Star)](https://github.com/assafbk/mocha_code)
      - soon
 19. **CorrelationQA**: [The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs](https://arxiv.org/pdf/2402.03757.pdf) (06 February, 2024) [![Star](https://img.shields.io/github/stars/MasaiahHan/CorrelationQA.svg?style=social&label=Star)](https://github.com/MasaiahHan/CorrelationQA)
@@ -144,7 +146,9 @@ Note: 'soon' will be replaced with brief description!
      - Introduce a meta evaluation benchmark called MHALUBENCH
      - Introduce a framework named UNIHD which detect modality-conflicting hallucinations at various levels such as object, attribute, and scene-text, as well as fact-conflicting hallucinations
 7. [Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/pdf/2404.14233) (22 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-     - soon
+     - Use of GPT-4/GPT-4v to generate fine-grained feedback for hallucination detection and detection (by supervised finetuning (SFT) of LVLM)
+     - Propose automatic pipeline for preference dataset construction
+     - Hallucination Severity Aware Direct Prefential Optimization (HSA-DPO) is introduced for mitigation of LVLM's hallucination
 8. **MetaToken**: [Detecting Hallucination in Image Descriptions by Meta Classification](https://arxiv.org/pdf/2405.19186) (29 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Really cool approach
      - Lightweight method for hallucination detection
@@ -180,7 +184,14 @@ Note: 'soon' will be replaced with brief description!
      - Detailed investigation on LVLM's component that might imfluence hallucination such as alignment of language decoder, volume of instruction data, resolution of input image and so on
      - Introduced a controlling parameters over LLMs (HallE-Control) to condition the inference of objects 
 7. **Woodpecker**: [Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/abs/2310.16045) (24 October, 2023) [![Star](https://img.shields.io/github/stars/BradyFU/Woodpecker.svg?style=social&label=Star)](https://github.com/BradyFU/Woodpecker)
-     - soon
+     - Really popular method
+     - Training free, post-hoc method to mitigate hallucination (but computationally expensive!!)
+     - 5 steps framework:
+        1) Key concept extraction from LVLM's output
+        2) Formulation of questions based on key concepts
+        3) Visual Knowledge validation (use of open-source object detector + pretrained VQA model)
+        4) Visual claim generation (use of fix sentence templates + QA to claim model)
+        5) Hallucination Correction (use LLM to correct LVLM's response)
 8. **VOLCANO**: [Mitigating Multimodal Hallucination through Self-Feedback Guided Revision](https://arxiv.org/pdf/2311.07362.pdf) (14 November, 2023)  [![Star](https://img.shields.io/github/stars/kaistAI/Volcano.svg?style=social&label=Star)](https://github.com/kaistAI/Volcano)
      - soon
 9. **HalluciDoctor**: [Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/pdf/2311.13614.pdf) (22 November, 2023)  [![Star](https://img.shields.io/github/stars/Yuqifan1117/HalluciDoctor.svg?style=social&label=Star)](https://github.com/Yuqifan1117/HalluciDoctor)
@@ -267,7 +278,9 @@ Note: 'soon' will be replaced with brief description!
 43. **TextSquare**: [Scaling up Text-Centric Visual Instruction Tuning](https://arxiv.org/pdf/2404.12803) (19 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
 44. **HSA-DPO**: [Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback](https://arxiv.org/pdf/2404.14233) (22 April, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-     - soon
+     - Use of GPT-4/GPT-4v to generate fine-grained feedback for hallucination detection and detection (by supervised finetuning (SFT) of LVLM)
+     - Propose automatic pipeline for preference dataset construction
+     - Hallucination Severity Aware Direct Prefential Optimization (HSA-DPO) is introduced for mitigation of LVLM's hallucination
 45. **Visual Fact Checker**: [Enabling High-Fidelity Detailed Caption Generation](https://arxiv.org/pdf/2404.19752) (30 April - CVPR 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
 46. **CSR**: [Calibrated Self-Rewarding Vision Language Models](https://arxiv.org/pdf/2405.14622) (23 May, 2024) [![Star](https://img.shields.io/github/stars/YiyangZhou/CSR.svg?style=social&label=Star)](https://github.com/YiyangZhou/CSR)
