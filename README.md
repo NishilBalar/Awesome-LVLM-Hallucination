@@ -113,7 +113,16 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 32. **MRHal-Bench**: [Automated Multi-level Preference for MLLMs](https://arxiv.org/pdf/2405.11165) (18 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-33. Up to Date (31th May) and SOTA research work loading...
+33. **VLind-Bench**: [Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/pdf/2406.08702) (13 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+34. **MMRel**: [A Relation Understanding Dataset and Benchmark in the MLLM Era](https://arxiv.org/pdf/2406.09121) (13 June, 2024) [![Star](https://img.shields.io/github/stars/niejiahao1998/MMRel.svg?style=social&label=Star)](https://github.com/niejiahao1998/MMRel)
+     - soon
+35. **Med-HallMark**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - Medical field hallucination benchmark
+     - MediHall Score - evaluation metric
+36. **AUTOHALLUSION**: [Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/pdf/2406.10900) (16 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+37. Up to Date (18th June) and SOTA research work loading...   
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -152,7 +161,12 @@ Note: 'soon' will be replaced with brief description!
 8. **MetaToken**: [Detecting Hallucination in Image Descriptions by Meta Classification](https://arxiv.org/pdf/2405.19186) (29 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Really cool approach
      - Lightweight method for hallucination detection
-9. Up to Date (31th May) and SOTA research work loading...
+9. **Image Textualization**: [An Automatic Framework for Creating Accurate and Detailed Image Descriptions](https://arxiv.org/pdf/2406.07502) (11 June, 2024) [![Star](https://img.shields.io/github/stars/sterzhang/image-textualization.svg?style=social&label=Star)](https://github.com/sterzhang/image-textualization/)
+     - soon
+10. **MediHallDetector**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - Medical field hallucination detection
+     - soon
+11. Up to Date (18th June) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -300,7 +314,9 @@ Note: 'soon' will be replaced with brief description!
      - will publish code soon
 53. **NoiseBoost**: [Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models](https://arxiv.org/pdf/2405.20081) (30 May, 2024) [![Star](https://img.shields.io/github/stars/KaiWU5/NoiseBoost.svg?style=social&label=Star)](https://github.com/KaiWU5/NoiseBoost)
      - soon
-54. Up to Date (31th May) and SOTA research work loading...
+54. **mDPO**: [Conditional Preference Optimization for Multimodal Large Language Models](https://arxiv.org/pdf/2406.11839) (17 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+55. Up to Date (18th June) and SOTA research work loading...
  
 Note: 'soon' will be replaced with brief description! 
    
@@ -310,4 +326,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (31th May) and SOTA research work loading...
+6. Up to Date (18th June) and SOTA research work loading...
