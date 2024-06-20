@@ -316,8 +316,14 @@ Note: 'soon' will be replaced with brief description!
      - soon
 54. **mDPO**: [Conditional Preference Optimization for Multimodal Large Language Models](https://arxiv.org/pdf/2406.11839) (17 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-55. Up to Date (18th June) and SOTA research work loading...
- 
+55. **DBD**: [Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?](https://arxiv.org/pdf/2406.12663) (18 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - Introduce novel decoding technique called Differentiated Beam Decoding (DBD)
+     - soon
+57. **AGLA**: [Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention](https://arxiv.org/pdf/2406.12718) (18 June, 2024) [![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star)](https://github.com/Lackel/AGLA)
+     - Introduce AGLA, a training-free and plug-and-play decoding framework
+     - soon
+58. Up to Date (18th June) and SOTA research work loading... 
+   
 Note: 'soon' will be replaced with brief description! 
    
 ## Survey
