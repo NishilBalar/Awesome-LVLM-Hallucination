@@ -122,7 +122,15 @@ The main intention of this project is to provide a platform where all the resear
      - MediHall Score - evaluation metric
 36. **AUTOHALLUSION**: [Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/pdf/2406.10900) (16 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-37. Up to Date (18th June) and SOTA research work loading...   
+37. **CHAIR-MEN**: [Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?](https://arxiv.org/pdf/2406.14492) (20 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+38. **R-BENCH**: [Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2406.16449) (24 June, 2024) (ICML2024) [![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star)](https://github.com/mrwu-mac/R-Bench)
+     - Introduce an evaluation benchmark to tackle relation type of hallucination 
+     - soon
+39. **HQH**: [Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org/pdf/2406.17115) (24 June, 2024)  [![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star)](https://github.com/HQHBench/HQHBench)
+     - Propose a framework called Hallucination benchmark Quality Measurement (HQM) to assess the quality of existing hallucination benchmarks
+     - soon
+40. Up to Date (1st July) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -166,7 +174,7 @@ Note: 'soon' will be replaced with brief description!
 10. **MediHallDetector**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Medical field hallucination detection
      - soon
-11. Up to Date (18th June) and SOTA research work loading...
+11. Up to Date (1st July) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -322,7 +330,7 @@ Note: 'soon' will be replaced with brief description!
 57. **AGLA**: [Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention](https://arxiv.org/pdf/2406.12718) (18 June, 2024) [![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star)](https://github.com/Lackel/AGLA)
      - Introduce AGLA, a training-free and plug-and-play decoding framework
      - soon
-58. Up to Date (18th June) and SOTA research work loading... 
+58. Up to Date (1st July) and SOTA research work loading...
    
 Note: 'soon' will be replaced with brief description! 
    
@@ -332,4 +340,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (18th June) and SOTA research work loading...
+6. Up to Date (1st July) and SOTA research work loading...
