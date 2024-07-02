@@ -105,32 +105,39 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 28. **IVL-Hallu**: [PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/pdf/2403.11116.pdf) (17 March, 2024) [![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star)](https://github.com/jiazhen-code/IntrinsicHallu)
      - soon
-29. **ALOHa**: [A New Measure for Hallucination in Captioning Models](https://arxiv.org/pdf/2404.02904v1.pdf) (3 April, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+29. **Unsolvable Problem Detection**: [Evaluating Trustworthiness of Vision Language Models](https://arxiv.org/pdf/2403.20331) (29 March, 2024) [![Star](https://img.shields.io/github/stars/AtsuMiyai/UPD.svg?style=social&label=Star)](https://github.com/AtsuMiyai/UPD/) 
+     - soon
+30. **ALOHa**: [A New Measure for Hallucination in Captioning Models](https://arxiv.org/pdf/2404.02904v1.pdf) (3 April, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon 
-30. **VALOR-EVAL**: [Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2404.13874) (22 April, 2024) [![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star)](https://github.com/haoyiq114/VALOR)
+31. **VALOR-EVAL**: [Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2404.13874) (22 April, 2024) [![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star)](https://github.com/haoyiq114/VALOR)
      - soon 
-31. **THRONE**: [An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/pdf/2405.05256) (08 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+32. **THRONE**: [An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/pdf/2405.05256) (08 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-32. **MRHal-Bench**: [Automated Multi-level Preference for MLLMs](https://arxiv.org/pdf/2405.11165) (18 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+33. **MRHal-Bench**: [Automated Multi-level Preference for MLLMs](https://arxiv.org/pdf/2405.11165) (18 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-33. **VLind-Bench**: [Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/pdf/2406.08702) (13 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+34. **VLind-Bench**: [Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/pdf/2406.08702) (13 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-34. **MMRel**: [A Relation Understanding Dataset and Benchmark in the MLLM Era](https://arxiv.org/pdf/2406.09121) (13 June, 2024) [![Star](https://img.shields.io/github/stars/niejiahao1998/MMRel.svg?style=social&label=Star)](https://github.com/niejiahao1998/MMRel)
+35. **MMRel**: [A Relation Understanding Dataset and Benchmark in the MLLM Era](https://arxiv.org/pdf/2406.09121) (13 June, 2024) [![Star](https://img.shields.io/github/stars/niejiahao1998/MMRel.svg?style=social&label=Star)](https://github.com/niejiahao1998/MMRel)
      - soon
-35. **Med-HallMark**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+36. **Med-HallMark**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Medical field hallucination benchmark
      - MediHall Score - evaluation metric
-36. **AUTOHALLUSION**: [Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/pdf/2406.10900) (16 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+37. **AUTOHALLUSION**: [Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/pdf/2406.10900) (16 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-37. **CHAIR-MEN**: [Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?](https://arxiv.org/pdf/2406.14492) (20 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+38. **MFC-Bench**: [Benchmarking Multimodal Fact-Checking with Large Vision-Language Models](https://arxiv.org/pdf/2406.11288) (17 June, 2024) [![Star](https://img.shields.io/github/stars/wskbest/MFC-Bench.svg?style=social&label=Star)](https://github.com/wskbest/MFC-Bench)
      - soon
-38. **R-BENCH**: [Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2406.16449) (24 June, 2024) (ICML2024) [![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star)](https://github.com/mrwu-mac/R-Bench)
+39. **CHAIR-MEN**: [Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?](https://arxiv.org/pdf/2406.14492) (20 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+40. **R-BENCH**: [Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2406.16449) (24 June, 2024) (ICML2024) [![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star)](https://github.com/mrwu-mac/R-Bench)
      - Introduce an evaluation benchmark to tackle relation type of hallucination 
      - soon
-39. **HQH**: [Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org/pdf/2406.17115) (24 June, 2024)  [![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star)](https://github.com/HQHBench/HQHBench)
+41. **HQH**: [Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org/pdf/2406.17115) (24 June, 2024)  [![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star)](https://github.com/HQHBench/HQHBench)
      - Propose a framework called Hallucination benchmark Quality Measurement (HQM) to assess the quality of existing hallucination benchmarks
      - soon
-40. Up to Date (1st July) and SOTA research work loading...
+42. **VideoHallucer**: [Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](https://arxiv.org/pdf/2406.16338) (24 June, 2024) [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer)
+     - soon
+43. Up to Date (2nd July) and SOTA research work loading...
+
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -174,7 +181,7 @@ Note: 'soon' will be replaced with brief description!
 10. **MediHallDetector**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Medical field hallucination detection
      - soon
-11. Up to Date (1st July) and SOTA research work loading...
+11. Up to Date (2nd July) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -322,15 +329,17 @@ Note: 'soon' will be replaced with brief description!
      - will publish code soon
 53. **NoiseBoost**: [Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models](https://arxiv.org/pdf/2405.20081) (30 May, 2024) [![Star](https://img.shields.io/github/stars/KaiWU5/NoiseBoost.svg?style=social&label=Star)](https://github.com/KaiWU5/NoiseBoost)
      - soon
-54. **mDPO**: [Conditional Preference Optimization for Multimodal Large Language Models](https://arxiv.org/pdf/2406.11839) (17 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+54. **CODE**: [Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Model](https://arxiv.org/pdf/2406.01920v1) (04 June, 2024) [![Star](https://img.shields.io/github/stars/IVY-LVLM/CODE.svg?style=social&label=Star)](https://github.com/IVY-LVLM/CODE)
      - soon
-55. **DBD**: [Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?](https://arxiv.org/pdf/2406.12663) (18 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+55. **mDPO**: [Conditional Preference Optimization for Multimodal Large Language Models](https://arxiv.org/pdf/2406.11839) (17 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+56. **DBD**: [Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?](https://arxiv.org/pdf/2406.12663) (18 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Introduce novel decoding technique called Differentiated Beam Decoding (DBD)
      - soon
 57. **AGLA**: [Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention](https://arxiv.org/pdf/2406.12718) (18 June, 2024) [![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star)](https://github.com/Lackel/AGLA)
      - Introduce AGLA, a training-free and plug-and-play decoding framework
      - soon
-58. Up to Date (1st July) and SOTA research work loading...
+58. Up to Date (2nd July) and SOTA research work loading...
    
 Note: 'soon' will be replaced with brief description! 
    
@@ -340,4 +349,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (1st July) and SOTA research work loading...
+6. Up to Date (2nd July) and SOTA research work loading...
