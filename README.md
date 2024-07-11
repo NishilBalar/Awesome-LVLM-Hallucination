@@ -140,9 +140,12 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 44. **MedVH**: [Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context](https://arxiv.org/pdf/2407.02730) (03 July, 2024) [![Star](https://img.shields.io/github/stars/dongzizhu/MedVH.svg?style=social&label=Star)](https://github.com/dongzizhu/MedVH)
      - soon
-45. Up to Date (7th July) and SOTA research work loading...
-
-
+45. **ROPE**: [Multi-Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2407.06192) (08 July, 2024) [![Star](https://img.shields.io/github/stars/sled-group/moh.svg?style=social&label=Star)](https://github.com/sled-group/moh)
+     - Deals with multi-object hallucinations and their cause
+     - Introduce Recognition-based Object Probing Evaluation (ROPE) for assessing multi-object hallucination
+     - In-depth analysis of hallucinatory behaviors
+46. Up to Date (11th July) and SOTA research work loading...
+    
 Note: 'soon' will be replaced with brief description! 
 
     
@@ -185,7 +188,9 @@ Note: 'soon' will be replaced with brief description!
 10. **MediHallDetector**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Medical field hallucination detection
      - soon
-11. Up to Date (7th July) and SOTA research work loading...
+11. **Pelican**: [Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification](https://arxiv.org/pdf/2407.02352) (02 July, 2024)![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+12. Up to Date (11th July) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -348,7 +353,7 @@ Note: 'soon' will be replaced with brief description!
      - Soon
 59. **BDHS**: [UNDERSTANDING ALIGNMENT IN MULTIMODAL LLMS: A COMPREHENSIVE STUDY](https://arxiv.org/pdf/2407.02477) (02 July, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-60. Up to Date (7th July) and SOTA research work loading...
+60. Up to Date (11th July) and SOTA research work loading...
 Note: 'soon' will be replaced with brief description! 
    
 ## Survey
@@ -357,4 +362,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (7th July) and SOTA research work loading...
+6. Up to Date (11th July) and SOTA research work loading...
