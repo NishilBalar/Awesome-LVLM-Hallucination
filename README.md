@@ -1,10 +1,10 @@
 # Awesome-LVLM-Hallucination [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Even though the world has seen the imersive capabilities of large vision language models, particularly in zero-shot inference, such models struggle with hallucinations, which can be referred to as **the generation of text with information that is not present in the visual input**. Lots of research work is going on to tackle this problem, such as hallucinated objects, inaccurate attributes and relationships, unfaithful descriptions, and so on. Possible reasons behind this could be language prior, insufficient visual context, biases and misinformation in the training dataset, and so on.
+Even though the world has seen the imersive capabilities of large vision language models, particularly in zero-shot inference, such models struggle with hallucinations, which can be referred to as **the generation of text with information that is not present in the visual input**. Lots of research work is going on to tackle this problem, such as hallucinated objects, inaccurate attributes and relationships, unfaithful descriptions, and so on. Possible reasons behind this could be language prior, insufficient visual context, biases and misinformation in the training dataset, and lot more.
 
 This repository will provide an organized list of state-of-the-art research papers, relevant code, and a brief description related to hallucinations of the Large-Vision-Language Model (LVLM), also known as the Multimodal Large Language Model (MLLM).
 
-The main intention of this project is to provide a platform where all the research work in the field of hallucination in LVLMs is accessed in a constructive way. If you have any suggestions for intersecting work within this field, kindly contribute them by raising an open issue. I am looking forward to fruitful discussion and learning! 
+The main intention of this project is to provide a platform where all the research work in the field of hallucination in LVLMs is accessed in a constructive way. If you have any suggestions for intersecting work within this field, kindly contribute them by raising an open issue. I am looking forward to fruitful discussion and learning! 
 
 ---
 - [Awesome LVLM Hallucination](#Awesome-LVLM-Hallucination)
@@ -144,7 +144,16 @@ The main intention of this project is to provide a platform where all the resear
      - Deals with multi-object hallucinations and their cause
      - Introduce Recognition-based Object Probing Evaluation (ROPE) for assessing multi-object hallucination
      - In-depth analysis of hallucinatory behaviors
-46. Up to Date (11th July) and SOTA research work loading...
+46. **BEAF**: [Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models](https://arxiv.org/pdf/2407.13442) (18 July, 2024) (ECCV 2024)  [![Star](https://img.shields.io/github/stars/postech-ami/BEAF.svg?style=social&label=Star)](https://github.com/postech-ami/BEAF)
+     - Proposed a hallucination evaluation benchmark called BEfore-After (BEAF)
+     - New metrics introduced: True Understanding (TU), IGnorance (IG), StuBbornness (SB), and InDecision (ID)
+47. **HaloQuest**: [A Visual Hallucination Dataset for Advancing Multimodal Reasoning](https://arxiv.org/pdf/2407.15680) (22 July, 2024) (ECCV 2024) [![Star](https://img.shields.io/github/stars/google/haloquest.svg?style=social&label=Star)](https://github.com/google/haloquest)
+     - Introduced a novel VQA dataset for VLM evaluation
+     - soon
+48. **MMINSTRUCT**: [A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](https://arxiv.org/pdf/2407.15838) (22 July, 2024) [![Star](https://img.shields.io/github/stars/yuecao0119/MMInstruct.svg?style=social&label=Star)](https://github.com/yuecao0119/MMInstruct)
+     - Introduced  high-quality and diverse visual instruction tuning dataset
+     - Claims SOTA performance of MMINSTRUCT finetuned LLava-1.5 on 10 out of 12 famous benchmarks 
+49. Up to Date (23th July) and SOTA research work loading...
     
 Note: 'soon' will be replaced with brief description! 
 
@@ -190,7 +199,7 @@ Note: 'soon' will be replaced with brief description!
      - soon
 11. **Pelican**: [Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification](https://arxiv.org/pdf/2407.02352) (02 July, 2024)![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-12. Up to Date (11th July) and SOTA research work loading...
+12. Up to Date (23th July) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -353,7 +362,11 @@ Note: 'soon' will be replaced with brief description!
      - Soon
 59. **BDHS**: [UNDERSTANDING ALIGNMENT IN MULTIMODAL LLMS: A COMPREHENSIVE STUDY](https://arxiv.org/pdf/2407.02477) (02 July, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-60. Up to Date (11th July) and SOTA research work loading...
+60. **REVERIE**: [Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2407.11422) (16 July, 2024) (ECCV 2024)  [![Star](https://img.shields.io/github/stars/zjr2000/REVERIE.svg?style=social&label=Star)](https://github.com/zjr2000/REVERIE)
+     - Introduced novel reflective instruction tuning to incorporate rationales into visual instruction tuning
+     - Proposed large-scale instruction tuning dataset called REVERIE
+61. Up to Date (23th July) and SOTA research work loading...
+
 Note: 'soon' will be replaced with brief description! 
    
 ## Survey
@@ -362,4 +375,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (11th July) and SOTA research work loading...
+6. Up to Date (23th July) and SOTA research work loading...
