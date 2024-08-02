@@ -153,7 +153,7 @@ The main intention of this project is to provide a platform where all the resear
 48. **MMINSTRUCT**: [A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](https://arxiv.org/pdf/2407.15838) (22 July, 2024) [![Star](https://img.shields.io/github/stars/yuecao0119/MMInstruct.svg?style=social&label=Star)](https://github.com/yuecao0119/MMInstruct)
      - Introduced  high-quality and diverse visual instruction tuning dataset
      - Claims SOTA performance of MMINSTRUCT finetuned LLava-1.5 on 10 out of 12 famous benchmarks 
-49. Up to Date (23th July) and SOTA research work loading...
+49. Up to Date (01st August) and SOTA research work loading...
     
 Note: 'soon' will be replaced with brief description! 
 
@@ -199,7 +199,7 @@ Note: 'soon' will be replaced with brief description!
      - soon
 11. **Pelican**: [Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification](https://arxiv.org/pdf/2407.02352) (02 July, 2024)![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-12. Up to Date (23th July) and SOTA research work loading...
+12. Up to Date (01st August) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -365,7 +365,14 @@ Note: 'soon' will be replaced with brief description!
 60. **REVERIE**: [Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2407.11422) (16 July, 2024) (ECCV 2024)  [![Star](https://img.shields.io/github/stars/zjr2000/REVERIE.svg?style=social&label=Star)](https://github.com/zjr2000/REVERIE)
      - Introduced novel reflective instruction tuning to incorporate rationales into visual instruction tuning
      - Proposed large-scale instruction tuning dataset called REVERIE
-61. Up to Date (23th July) and SOTA research work loading...
+61. **PAI**: [Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs](https://arxiv.org/pdf/2407.21771) (31 July, 2024) (ECCV 2024) [![Star](https://img.shields.io/github/stars/LALBJ/PAI.svg?style=social&label=Star)](https://github.com/LALBJ/PAI)
+     - soon
+62. **MHR**: [Mitigating Multilingual Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2408.00550) (01 August, 2024) [![Star](https://img.shields.io/github/stars/ssmisya/MHR.svg?style=social&label=Star)](https://github.com/ssmisya/MHR)
+     - soon
+63. **ARA**: [Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation](https://arxiv.org/pdf/2408.00555) (01 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - RAG for LVLMs for mitigating hallucination
+     - soon
+64. Up to Date (01st August) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
    
@@ -375,4 +382,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (23th July) and SOTA research work loading...
+6. Up to Date (01st August) and SOTA research work loading...
