@@ -153,7 +153,10 @@ The main intention of this project is to provide a platform where all the resear
 48. **MMINSTRUCT**: [A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](https://arxiv.org/pdf/2407.15838) (22 July, 2024) [![Star](https://img.shields.io/github/stars/yuecao0119/MMInstruct.svg?style=social&label=Star)](https://github.com/yuecao0119/MMInstruct)
      - Introduced  high-quality and diverse visual instruction tuning dataset
      - Claims SOTA performance of MMINSTRUCT finetuned LLava-1.5 on 10 out of 12 famous benchmarks 
-49. Up to Date (01st August) and SOTA research work loading...
+49. **Hallu-PI**: [ Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs](https://arxiv.org/pdf/2408.01355) (02 August, 2024) [![Star](https://img.shields.io/github/stars/NJUNLP/Hallu-PI.svg?style=social&label=Star)](https://github.com/NJUNLP/Hallu-PI)
+     - Constructed hallucination evaluation benchmark with perturbed inputs with 7 different purturbed scenarios
+     - 12 SOTA MLLMs are benchmarked
+50. Up to Date (01st August) and SOTA research work loading... 
     
 Note: 'soon' will be replaced with brief description! 
 
