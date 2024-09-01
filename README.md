@@ -406,7 +406,7 @@ Note: 'soon' will be replaced with brief description!
      - Deals with Sycophancy in LVLMs which exists due to negative prompting
      - Introduce decoding strategy for improving LVLM's robustness toward sycophancy
 
-70. **RoVRM**: [A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data](https://arxiv.org/pdf/2408.12109) (22 August, 2024) [![Star](https://img.shields.io/github/stars/huofushuo/SID.svg?style=social&label=Star)](https://github.com/wangclnlp/Vision-LLM-Alignment)
+70. **RoVRM**: [A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data](https://arxiv.org/pdf/2408.12109) (22 August, 2024) [![Star](https://img.shields.io/github/stars/wangclnlp/Vision-LLM-Alignment.svg?style=social&label=Star)](https://github.com/wangclnlp/Vision-LLM-Alignment)
      - Introduced Robust Visula Reward model (RoVRM) to improve human-preference alignment in LVLMs
      - 3 stage progressive training and optimal transport-based preference data selection approaches to train RoVRM
      - Seemless integration with arbitrary ranking-based alignment techniques, such as direct preference optimization (DPO)
