@@ -160,7 +160,7 @@ The main intention of this project is to provide a platform where all the resear
      - Introduced a benchmark to evaluate relation hallucination which further catogarized in to Perceptive and Cognitice type
      - 3 evaluation tasks: Yes/No, MCQ, VQA
      - code and dataset will be released after paper's acceptance  
-51. Up to Date (27th August) and SOTA research work loading...
+51. Up to Date (02 September, 2024) and SOTA research work loading...
     
 Note: 'soon' will be replaced with brief description! 
 
@@ -210,7 +210,7 @@ Note: 'soon' will be replaced with brief description!
      - Concluded that Supervised Uncertainity Quantification (SUQ) outperforms other reference-free hallucination detection technique such as Uncertainity-based methods and Consistency-based methods
      - An example of supervised Uncertainity Quantification method --> METATOKEN paper
      - soon
-13. Up to Date (27th August) and SOTA research work loading... 
+13. Up to Date (02 September, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -406,7 +406,7 @@ Note: 'soon' will be replaced with brief description!
      - Deals with Sycophancy in LVLMs which exists due to negative prompting
      - Introduce decoding strategy for improving LVLM's robustness toward sycophancy
 
-70. **RoVRM**: [A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data](https://arxiv.org/pdf/2408.12109) (22 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+70. **RoVRM**: [A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data](https://arxiv.org/pdf/2408.12109) (22 August, 2024) [![Star](https://img.shields.io/github/stars/wangclnlp/Vision-LLM-Alignment.svg?style=social&label=Star)](https://github.com/wangclnlp/Vision-LLM-Alignment)
      - Introduced Robust Visula Reward model (RoVRM) to improve human-preference alignment in LVLMs
      - 3 stage progressive training and optimal transport-based preference data selection approaches to train RoVRM
      - Seemless integration with arbitrary ranking-based alignment techniques, such as direct preference optimization (DPO)
@@ -414,7 +414,13 @@ Note: 'soon' will be replaced with brief description!
      - constractive decoding method
      - use of text-to-image (T2I) model for constractive decoding and mitigate hallucination
      - Claimed that experimental investigation on 5 benchmarks showing superior performance compared to existing techniques for hallucination mitigation
-72.  Up to Date (27th August) and SOTA research work loading...
+
+72. **See or Guess**: [Counterfactually Regularized Image Captioning](https://arxiv.org/pdf/2408.16809) (29 August, 2024) [![Star](https://img.shields.io/github/stars/Aman-4-Real/See-or-Guess.svg?style=social&label=Star)](https://github.com/Aman-4-Real/See-or-Guess)
+     - soon
+73. **Look, Compare, Decide**: [Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150) (30 August, 2024) [![Star](https://img.shields.io/github/stars/GasolSun36/MVP.svg?style=social&label=Star)](https://github.com/GasolSun36/MVP)
+     - multi-path certainity based decoding
+     - soon
+74.  Up to Date (02 September, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
    
@@ -424,4 +430,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (27th August) and SOTA research work loading... 
+6. Up to Date (02 September, 2024) and SOTA research work loading...
