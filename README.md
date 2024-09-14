@@ -160,7 +160,10 @@ The main intention of this project is to provide a platform where all the resear
      - Introduced a benchmark to evaluate relation hallucination which further catogarized in to Perceptive and Cognitice type
      - 3 evaluation tasks: Yes/No, MCQ, VQA
      - code and dataset will be released after paper's acceptance  
-51. Up to Date (02 September, 2024) and SOTA research work loading...
+51. **Pfram**: [Understanding Multimodal Hallucination with Parameter-Free Representation Alignment](https://arxiv.org/pdf/2409.01151) (02 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+52. Up to Date (14th September, 2024) and SOTA research work loading...
+
     
 Note: 'soon' will be replaced with brief description! 
 
@@ -210,7 +213,10 @@ Note: 'soon' will be replaced with brief description!
      - Concluded that Supervised Uncertainity Quantification (SUQ) outperforms other reference-free hallucination detection technique such as Uncertainity-based methods and Consistency-based methods
      - An example of supervised Uncertainity Quantification method --> METATOKEN paper
      - soon
-13. Up to Date (02 September, 2024) and SOTA research work loading...
+13. [Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data](https://arxiv.org/pdf/2409.00238) (30 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - Proposed an approach to create corrupted grounding data which can be used to pre-train MLM hallucination detector
+     - soon 
+14. Up to Date (14th September, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -394,15 +400,15 @@ Note: 'soon' will be replaced with brief description!
 66. **LCD**: [Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding](https://arxiv.org/pdf/2408.04664) (06 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - decoding strategy to mitigate object hallucination
      - soon
-67. **Detect-then-Calibrate**: [A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/pdf/2408.09429) (18th August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+67. **Detect-then-Calibrate**: [A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/pdf/2408.09429) (18 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Proposed a novel detect-then-calibrate method to detect and mitigate hallucination
      - throshold based hallucination identification
      - hallucination rate as metric to calculate final metric called R_score
-68. **CLIP-DPO**: [Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs](https://arxiv.org/pdf/2408.10433) (19th August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+68. **CLIP-DPO**: [Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs](https://arxiv.org/pdf/2408.10433) (19 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Do not require additiona training or external dataset or esemble of external LVLMs such as GPT-4
      - Use of CLIP model to prepare positive-negative pairs for DPO
      - Claims far better performance then similar work - HA-DPO with very few training data samples 
-69. **LQCD**: [Towards Analyzing and Mitigating Sycophancy in Large Vision-Language Models](https://arxiv.org/pdf/2408.11261) (21th August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+69. **LQCD**: [Towards Analyzing and Mitigating Sycophancy in Large Vision-Language Models](https://arxiv.org/pdf/2408.11261) (21 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Deals with Sycophancy in LVLMs which exists due to negative prompting
      - Introduce decoding strategy for improving LVLM's robustness toward sycophancy
 
@@ -410,7 +416,7 @@ Note: 'soon' will be replaced with brief description!
      - Introduced Robust Visula Reward model (RoVRM) to improve human-preference alignment in LVLMs
      - 3 stage progressive training and optimal transport-based preference data selection approaches to train RoVRM
      - Seemless integration with arbitrary ranking-based alignment techniques, such as direct preference optimization (DPO)
-71. **ConVis**: [ Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/pdf/2408.13906) (25th August, 2024)  [![Star](https://img.shields.io/github/stars/yejipark-m/ConVis.svg?style=social&label=Star)](https://github.com/yejipark-m/ConVis)
+71. **ConVis**: [ Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/pdf/2408.13906) (25 August, 2024)  [![Star](https://img.shields.io/github/stars/yejipark-m/ConVis.svg?style=social&label=Star)](https://github.com/yejipark-m/ConVis)
      - constractive decoding method
      - use of text-to-image (T2I) model for constractive decoding and mitigate hallucination
      - Claimed that experimental investigation on 5 benchmarks showing superior performance compared to existing techniques for hallucination mitigation
@@ -420,7 +426,12 @@ Note: 'soon' will be replaced with brief description!
 73. **Look, Compare, Decide**: [Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning](https://arxiv.org/pdf/2408.17150) (30 August, 2024) [![Star](https://img.shields.io/github/stars/GasolSun36/MVP.svg?style=social&label=Star)](https://github.com/GasolSun36/MVP)
      - multi-path certainity based decoding
      - soon
-74.  Up to Date (02 September, 2024) and SOTA research work loading...
+74.  **FaithD2T** [Generating Faithful and Salient Text from Multimodal Data](https://arxiv.org/pdf/2409.03961) (06 September, 2024) [![Star](https://img.shields.io/github/stars/TahsinaHashem/FaithD2T.svg?style=social&label=Star)](https://github.com/TahsinaHashem/FaithD2T)
+     - soon
+75.  **RBD**: [Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding](https://arxiv.org/pdf/2409.06485) (10 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - Decoding strategy
+     - soon
+76.  Up to Date (14th September, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
    
@@ -430,4 +441,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (02 September, 2024) and SOTA research work loading...
+6. Up to Date (14th September, 2024) and SOTA research work loading...
