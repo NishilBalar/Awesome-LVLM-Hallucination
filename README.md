@@ -162,7 +162,20 @@ The main intention of this project is to provide a platform where all the resear
      - code and dataset will be released after paper's acceptance  
 51. **Pfram**: [Understanding Multimodal Hallucination with Parameter-Free Representation Alignment](https://arxiv.org/pdf/2409.01151) (02 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-52. Up to Date (14th September, 2024) and SOTA research work loading...
+52. **ODE**: [Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2409.09318) (14 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+53. **LLSAVisionQA**: [Explore the Hallucination on Low-level Perception for MLLMs](https://arxiv.org/pdf/2409.09748) (15 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+54. **CAST**: [Cross-modal Alignment Similarity Test for Vision Language Models](https://arxiv.org/pdf/2409.11007) (17 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+55. **JourneyBench**: [Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images](https://arxiv.org/pdf/2409.12953) (25 September, 2024) [![Star](https://img.shields.io/github/stars/JourneyBench/JourneyBench.svg?style=social&label=Star)](https://github.com/JourneyBench/JourneyBench)
+     - soon
+56. **FIHA**: [Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs](https://arxiv.org/pdf/2409.13612) (20 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - code: [here](https://anonymous.4open.science/r/FIHA-45BB/README.md)
+     - soon
+57. **EventHallusion**: [Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/pdf/2409.16597) (25 September, 2024) [![Star](https://img.shields.io/github/stars/Stevetich/EventHallusion.svg?style=social&label=Star)](https://github.com/Stevetich/EventHallusion)
+     - soon
+58. Up to Date (27th September, 2024) and SOTA research work loading...
 
     
 Note: 'soon' will be replaced with brief description! 
@@ -216,7 +229,9 @@ Note: 'soon' will be replaced with brief description!
 13. [Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data](https://arxiv.org/pdf/2409.00238) (30 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Proposed an approach to create corrupted grounding data which can be used to pre-train MLM hallucination detector
      - soon 
-14. Up to Date (14th September, 2024) and SOTA research work loading...
+14. [LLMs Can Check Their Own Results to Mitigate Hallucinations in Traffic Understanding Tasks](https://arxiv.org/pdf/2409.12580) (19 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+15. Up to Date (27th September, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -431,7 +446,13 @@ Note: 'soon' will be replaced with brief description!
 75.  **RBD**: [Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding](https://arxiv.org/pdf/2409.06485) (10 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Decoding strategy
      - soon
-76.  Up to Date (14th September, 2024) and SOTA research work loading...
+76. **PACU**: [Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization](https://arxiv.org/pdf/2409.14484) (22 September, 2024) [![Star](https://img.shields.io/github/stars/zhaominyiz/PACU.svg?style=social&label=Star)](https://github.com/zhaominyiz/PACU)
+     - soon
+77. **Dentist**: [A Unified Hallucination Mitigation Framework for Large Vision-Language Models](https://arxiv.org/pdf/2409.16494) (24 September, 2024) [![Star](https://img.shields.io/github/stars/CYandYue/Dentist.svg?style=social&label=Star)](https://github.com/CYandYue/Dentist)
+     - soon
+78.  **TCD**: [Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/pdf/2409.16597) (25 September, 2024) [![Star](https://img.shields.io/github/stars/Stevetich/EventHallusion.svg?style=social&label=Star)](https://github.com/Stevetich/EventHallusion)
+     -soon
+79.  Up to Date (27th September, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
    
@@ -441,4 +462,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (14th September, 2024) and SOTA research work loading...
+6. Up to Date (27th September, 2024) and SOTA research work loading...
