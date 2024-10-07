@@ -452,7 +452,9 @@ Note: 'soon' will be replaced with brief description!
      - soon
 78.  **TCD**: [Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/pdf/2409.16597) (25 September, 2024) [![Star](https://img.shields.io/github/stars/Stevetich/EventHallusion.svg?style=social&label=Star)](https://github.com/Stevetich/EventHallusion)
      -soon
-79.  Up to Date (27th September, 2024) and SOTA research work loading...
+79. **MemVR** [Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2410.03577) (October 7, 2024) [![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star)](https://github.com/1zhou-Wang/MemVR)
+     
+80.  Up to Date (27th September, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
    
