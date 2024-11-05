@@ -177,8 +177,23 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 58. **TUBench**: [Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions](https://arxiv.org/pdf/2410.04107) (05 October, 2024)  [![Star](https://img.shields.io/github/stars/NLPCode/TUBench.svg?style=social&label=Star)](https://github.com/NLPCode/TUBench)
      - soon
-59. Up to Date (10th October, 2024) and SOTA research work loading...
-
+59. **LongHalQA**: [Long-Context Hallucination Evaluation for MultiModal Large Language Models](https://arxiv.org/pdf/2410.09962) (15 October, 2024) [![Star](https://img.shields.io/github/stars/hanqiu-hq/LongHalQA.svg?style=social&label=Star)](https://github.com/hanqiu-hq/LongHalQA)
+     - soon
+60. **MM-SY**: [Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs](https://arxiv.org/pdf/2410.11302) (15 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon (code and benchmark)
+61. **Magnifier Prompt**: [Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org/pdf/2410.11701) (15 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+62. **DeCo**: [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](https://arxiv.org/pdf/2410.11779) (15 October, 2024)  [![Star](https://img.shields.io/github/stars/zjunlp/DeCo.svg?style=social&label=Star)](https://github.com/zjunlp/DeCo)
+     - decoding technique
+     - soon
+63. **The Curse of Multi-Modalities**: [Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/pdf/2410.12787) (16 October, 2024) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CMM.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/CMM)
+     - soon
+64. **Trust but Verify**: [Programmatic VLM Evaluation in the Wild](https://arxiv.org/pdf/2410.13121) (17 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - [project_page](https://prove-explorer.netlify.app/)
+     - soon
+65. **Tri-HE**: [Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](https://arxiv.org/pdf/2410.23114) (03 November, 2024) [![Star](https://img.shields.io/github/stars/wujunjie1998/Tri-HE.svg?style=social&label=Star)](https://github.com/wujunjie1998/Tri-HE)
+     - soon
+66. Up to Date (05th November, 2024) and SOTA research work loading...
     
 Note: 'soon' will be replaced with brief description! 
 
@@ -235,7 +250,9 @@ Note: 'soon' will be replaced with brief description!
      - soon
 15. **TLDR**: [Token-Level Detective Reward Model for Large Vision Language Models](https://arxiv.org/pdf/2410.04734) (07 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-16. Up to Date (10th October, 2024) and SOTA research work loading...
+16. **RadFlag**: [A Black-Box Hallucination Detection Method for Medical Vision Language Models](https://arxiv.org/pdf/2411.00299) (01 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+17. Up to Date (05th November, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -345,7 +362,7 @@ Note: 'soon' will be replaced with brief description!
 36. **PENSIEVE**: [Retrospect-then-Compare Mitigates Visual Hallucination](https://arxiv.org/pdf/2403.14401.pdf) (21 March, 2024)  [![Star](https://img.shields.io/github/stars/DingchenYang99/Pensieve.svg?style=social&label=Star)](https://github.com/DingchenYang99/Pensieve)
      - decoding strategy
      - soon
-37. **ESREAL**: [Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models](https://arxiv.org/pdf/2403.16167.pdf) (26 March, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+37. **ESREAL**: [Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models](https://arxiv.org/pdf/2403.16167.pdf) (26 March, 2024) [![Star](https://img.shields.io/github/stars/kmy17518/ESREAL.svg?style=social&label=Star)](https://github.com/kmy17518/ESREAL)
      - soon
 38. **ICD**: [Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://arxiv.org/pdf/2403.18715.pdf) (27 March, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - decoding strategy
@@ -472,7 +489,20 @@ Note: 'soon' will be replaced with brief description!
      - soon
 85. **FROM PIXELS TO TOKENS**: [Revisiting Object Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2410.06795) (09 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-86. Up to Date (10th October, 2024) and SOTA research work loading...
+86. **VHExpansion**: [Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models](https://arxiv.org/pdf/2410.11242) (15 October, 2024) [![Star](https://img.shields.io/github/stars/lycheeefish/VHExpansion.svg?style=social&label=Star)](https://github.com/lycheeefish/VHExpansion)
+     - soon
+87. **SGD**: [Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](https://arxiv.org/pdf/2410.13321) (17 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - decoding technique
+     - soon
+88. **Fine-Grained Verifiers**: [Preference Modeling as Next-token Prediction in Vision-Language Alignment](https://arxiv.org/pdf/2410.14148) (18 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon 
+89. **MFPO**: [Modality-Fair Preference Optimization for Trustworthy MLLM Alignment](https://arxiv.org/pdf/2410.15334) (20 October, 2024) 
+     - soon (code)
+90. **CCA**: [Mitigating Object Hallucination via Concentric Causal Attention](https://arxiv.org/pdf/2410.15926) (21 October, 2024)  [![Star](https://img.shields.io/github/stars/xing0047/cca-llava.svg?style=social&label=Star)](https://github.com/xing0047/cca-llava)
+     - soon
+91. **VTI**: [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](https://arxiv.org/pdf/2410.15778) (22 October, 2024) [![Star](https://img.shields.io/github/stars/shengliu66/VTI.svg?style=social&label=Star)](https://github.com/shengliu66/VTI)
+     - soon
+92. Up to Date (05th November, 2024) and SOTA research work loading...
 Note: 'soon' will be replaced with brief description! 
    
 ## Survey
@@ -481,4 +511,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (10th October, 2024) and SOTA research work loading...
+6. Up to Date (05th November, 2024) and SOTA research work loading...
