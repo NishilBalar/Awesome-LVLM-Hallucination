@@ -193,7 +193,9 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 65. **Tri-HE**: [Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](https://arxiv.org/pdf/2410.23114) (03 November, 2024) [![Star](https://img.shields.io/github/stars/wujunjie1998/Tri-HE.svg?style=social&label=Star)](https://github.com/wujunjie1998/Tri-HE)
      - soon
-66. Up to Date (05th November, 2024) and SOTA research work loading...
+66. **H-POPE**: [Hierarchical Polling-based Probing Evaluation of Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2411.04077) (06 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+67. Up to Date (22th November, 2024) and SOTA research work loading...
     
 Note: 'soon' will be replaced with brief description! 
 
@@ -252,7 +254,9 @@ Note: 'soon' will be replaced with brief description!
      - soon
 16. **RadFlag**: [A Black-Box Hallucination Detection Method for Medical Vision Language Models](https://arxiv.org/pdf/2411.00299) (01 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-17. Up to Date (05th November, 2024) and SOTA research work loading...
+17. **VL-Uncertainty**: [Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/pdf/2411.11919) (18 November, 2024)  [![Star](https://img.shields.io/github/stars/Ruiyang-061X/VL-Uncertainty.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/VL-Uncertainty)
+     - soon
+18. Up to Date (22th November, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -502,8 +506,22 @@ Note: 'soon' will be replaced with brief description!
      - soon
 91. **VTI**: [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](https://arxiv.org/pdf/2410.15778) (22 October, 2024) [![Star](https://img.shields.io/github/stars/shengliu66/VTI.svg?style=social&label=Star)](https://github.com/shengliu66/VTI)
      - soon
-92. Up to Date (05th November, 2024) and SOTA research work loading...
-Note: 'soon' will be replaced with brief description! 
+92. **V-DPO**: [Mitigating Hallucination in Large Vision Language Models viaVision-Guided Direct Preference Optimization](https://arxiv.org/pdf/2411.02712) (05 November, 2024) [![Star](https://img.shields.io/github/stars/YuxiXie/V-DPO.svg?style=social&label=Star)](https://github.com/YuxiXie/V-DPO)
+     - soon 
+93. **EAH**: [Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs](https://arxiv.org/pdf/2411.09968) (15 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+94. **HDPO**: [Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization](https://arxiv.org/pdf/2411.10436) (15 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+95. **Thinking Before Looking**: [Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination](https://arxiv.org/pdf/2411.12591) (15 November, 2024) [![Star](https://img.shields.io/github/stars/Terry-Xu-666/visual_inference_chain.svg?style=social&label=Star)](https://github.com/Terry-Xu-666/visual_inference_chain)
+     - soon
+96. **CATCH**: [Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs](https://arxiv.org/pdf/2411.12713) (19 November, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+97. **Looking Beyond Text**: [Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance](https://arxiv.org/pdf/2411.14279) (21 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - [project page](https://lacing-lvlm.github.io/)
+     - soon
+98. Up to Date (22th November, 2024) and SOTA research work loading...
+
+Note: 'soon' will be replaced with brief description!  
    
 ## Survey
 1. [DEEP LEARNING APPROACHES ON IMAGE CAPTIONING: A REVIEW](https://arxiv.org/pdf/2201.12944.pdf) (22 August, 2023)
@@ -511,4 +529,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (05th November, 2024) and SOTA research work loading...
+6. Up to Date (22th November, 2024) and SOTA research work loading...
