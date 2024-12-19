@@ -250,20 +250,23 @@ Note: 'soon' will be replaced with brief description!
      - soon
 13. [Pre-Training Multimodal Hallucination Detectors with Corrupted Grounding Data](https://arxiv.org/pdf/2409.00238) (30 August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Proposed an approach to create corrupted grounding data which can be used to pre-train MLM hallucination detector
-     - soon 
-14. [LLMs Can Check Their Own Results to Mitigate Hallucinations in Traffic Understanding Tasks](https://arxiv.org/pdf/2409.12580) (19 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-15. **TLDR**: [Token-Level Detective Reward Model for Large Vision Language Models](https://arxiv.org/pdf/2410.04734) (07 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+14. [CAST: Cross-modal Alignment Similarity Test for Vision Language Models](https://arxiv.org/abs/2409.11007) (17 September, 2024) [![Star](https://img.shields.io/github/stars/gautierdag/cast.svg?style=social&label=Star)](https://github.com/gautierdag/cast)
+     - Proposed CAST as a way to measure the self-consistency of LVLMs across different modalities.
+     - This works in two stage, in the first stage the models generate similarities/true statements comparing two inputs, and in the second stage the model judges its own output for truthfulness.
+15. [LLMs Can Check Their Own Results to Mitigate Hallucinations in Traffic Understanding Tasks](https://arxiv.org/pdf/2409.12580) (19 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-16. **RadFlag**: [A Black-Box Hallucination Detection Method for Medical Vision Language Models](https://arxiv.org/pdf/2411.00299) (01 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+16. **TLDR**: [Token-Level Detective Reward Model for Large Vision Language Models](https://arxiv.org/pdf/2410.04734) (07 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-17. **VL-Uncertainty**: [Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/pdf/2411.11919) (18 November, 2024)  [![Star](https://img.shields.io/github/stars/Ruiyang-061X/VL-Uncertainty.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/VL-Uncertainty)
+17. **RadFlag**: [A Black-Box Hallucination Detection Method for Medical Vision Language Models](https://arxiv.org/pdf/2411.00299) (01 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-18. **DHCP**: [Detecting Hallucinations by Cross-modal Attention Pattern in Large Vision-Language Models](https://arxiv.org/pdf/2411.18659) (27 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+18. **VL-Uncertainty**: [Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/pdf/2411.11919) (18 November, 2024)  [![Star](https://img.shields.io/github/stars/Ruiyang-061X/VL-Uncertainty.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/VL-Uncertainty)
      - soon
-19. **Beyond Logit Lens**: [Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/pdf/2411.19187) (28 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+19. **DHCP**: [Detecting Hallucinations by Cross-modal Attention Pattern in Large Vision-Language Models](https://arxiv.org/pdf/2411.18659) (27 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-20. Up to Date (10th December, 2024) and SOTA research work loading...
+20. **Beyond Logit Lens**: [Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/pdf/2411.19187) (28 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+21. Up to Date (10th December, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
