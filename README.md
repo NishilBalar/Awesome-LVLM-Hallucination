@@ -203,7 +203,7 @@ The main intention of this project is to provide a platform where all the resear
 68. **VIDHAL**: [Benchmarking Temporal Hallucinations in Vision LLMs](https://arxiv.org/pdf/2411.16771) (25 November 2024)  [![Star](https://img.shields.io/github/stars/Lookuz/VidHal.svg?style=social&label=Star)](https://github.com/Lookuz/VidHal)
      - perfromance evaluation on video / frames
      - soon
-69. Up to Date (10th December, 2024) and SOTA research work loading...
+69. Up to Date (25th December, 2024) and SOTA research work loading...
     
 Note: 'soon' will be replaced with brief description! 
 
@@ -268,7 +268,7 @@ Note: 'soon' will be replaced with brief description!
      - soon
 19. **Beyond Logit Lens**: [Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/pdf/2411.19187) (28 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-20. Up to Date (10th December, 2024) and SOTA research work loading...
+20. Up to Date (25th December, 2024) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -551,7 +551,21 @@ Note: 'soon' will be replaced with brief description!
      - soon
 107. **VCD Analysis**: [Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models](https://arxiv.org/pdf/2412.06775) (09 December, 2024)  [![Star](https://img.shields.io/github/stars/YiLunLee/VCD_Analysis.svg?style=social&label=Star)](https://github.com/YiLunLee/VCD_Analysis)
      - soon
-108. Up to Date (10th December, 2024) and SOTA research work loading...
+108. **DEHALL**: [Combating Multimodal LLM Hallucination via Bottom-Up Holistic Reasoning](https://arxiv.org/pdf/2412.11124) (15th December, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+109. **Nullu**: [Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection](https://arxiv.org/pdf/2412.13817) (18th December, 2024)  [![Star](https://img.shields.io/github/stars/Ziwei-Zheng/Nullu.svg?style=social&label=Star)](https://github.com/Ziwei-Zheng/Nullu)
+     - soon
+110. **VHD**: [Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence](https://arxiv.org/pdf/2412.13949) (18th December, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+111. **TPO**: [Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation](https://arxiv.org/pdf/2412.14487) (19th December, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+112. **Toward Robust Hyper-Detailed Image Captioning**: [A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage](https://arxiv.org/pdf/2412.15484) (20th December, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+113. **VORD**: [Visual Ordinal Calibration for Mitigating Object Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2412.15739) (20th December, 2024)  [![Star](https://img.shields.io/github/stars/dexterdley/VORD.svg?style=social&label=Star)](https://github.com/dexterdley/VORD)
+     - soon
+114. **SENA**: [Beyond Human Data: Aligning Multimodal Large Language Models by Iterative Self-Evolution](https://arxiv.org/pdf/2412.15650) (20th December, 2024)  [![Star](https://img.shields.io/github/stars/WentaoTan/SENA.svg?style=social&label=Star)](https://github.com/WentaoTan/SENA)
+     - soon
+115. Up to Date (25th December, 2024) and SOTA research work loading...
 
 
 Note: 'soon' will be replaced with brief description!  
@@ -562,4 +576,4 @@ Note: 'soon' will be replaced with brief description!
 3. [Visual Hallucination: Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2403.17306.pdf) (26 March, 2024)
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
-6. Up to Date (10th December, 2024) and SOTA research work loading...
+6. Up to Date (25th December, 2024) and SOTA research work loading...
