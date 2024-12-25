@@ -38,167 +38,172 @@ The main intention of this project is to provide a platform where all the resear
 6. **CIEM**: [Contrastive Instruction Evaluation Method for Better Instruction Tuning](https://arxiv.org/pdf/2309.02301.pdf) (NeurIPS 2023 Workshop) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Automatic construction of question-answer pair with based on dataset with caption annotation using ChatGPT [Yes/No QA pair] and automatic pipeline for evaluation
      - Constractive instruction tuning (CIT) with Factual and Constractive QA pairs with Chain-of-Thought (CoT) justification
-7. **MMHAL-BENCH**: [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/pdf/2309.14525.pdf) (25 September, 2023) [![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star)](https://github.com/llava-rlhf/LLaVA-RLHF) 
+       
+7. **CAST**: [Cross-modal Alignment Similarity Test for Vision Language Models](https://arxiv.org/abs/2409.11007) (17 September, 2024) [![Star](https://img.shields.io/github/stars/gautierdag/cast.svg?style=social&label=Star)](https://github.com/gautierdag/cast)
+     - Proposed CAST as a way to measure the self-consistency of LVLMs across different modalities.
+     - This works in two stage, in the first stage the models generate similarities/true statements comparing two inputs, and in the second stage the model judges its own output for truthfulness.
+
+8. **MMHAL-BENCH**: [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/pdf/2309.14525.pdf) (25 September, 2023) [![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star)](https://github.com/llava-rlhf/LLaVA-RLHF) 
      - Introduced novel algorithm called Factually Augmented RLHF (Fact-RLHF) to alleviate the reward hacking phenomenon in RLHF
      - Developed evaluation benchmark MMHAL-BENCH with a special focus on penalizing hallucinations
      - Trained a LLM with RLHF (Llava-RLHF) which shows improved multimodal alignment
-8. **LRV (GAVIE)**: [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) (29 September, 2023) [![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star)](https://github.com/FuxiaoLiu/LRV-Instruction)
+9. **LRV (GAVIE)**: [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf) (29 September, 2023) [![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star)](https://github.com/FuxiaoLiu/LRV-Instruction)
      - LRV-Instruction - positive and negative robust instruction tuning dataset with 400k visual instructions (16 tasks)
      - Negative instruction semantics: (a) Nonexistent Object Manipulation (b) Existent Object Manipulation (c) Knowledge Manipulation
      - GPT4-Assisted Visual Instruction Evaluation (GAVIE)
-9. **NOPE**: [Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models](https://arxiv.org/pdf/2310.05338.pdf) (09 October, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+10. **NOPE**: [Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models](https://arxiv.org/pdf/2310.05338.pdf) (09 October, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - VQA diagnostic benchmark to measure object hallucination with use of 'Negative Pompt' based questions
      - LLM based generation of 29.5k synthetic negative pronoum (none, no one, nobody. nowhere, neither) dataset
      - Finding: tendency of VLMs to hallucinate more on data with higher lexical diversity, more scene relavent objects (co-occurance) and large answer copes.
-10. **HallusionBench**: [An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/pdf/2310.14566.pdf) (CVPR 2024) [![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench.svg?style=social&label=Star)](https://github.com/tianyi-lab/HallusionBench)
+11. **HallusionBench**: [An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/pdf/2310.14566.pdf) (CVPR 2024) [![Star](https://img.shields.io/github/stars/tianyi-lab/HallusionBench.svg?style=social&label=Star)](https://github.com/tianyi-lab/HallusionBench)
      - Language Hallucination + Visual Illusion: 1129 VQA paired with total 346 images
      - It includes topics such as food, math, geometry, statistics, geography, sports, cartoon, famous illusions, movie, meme, etc. and formats such as including logo, poster, figure, charts, table, map, consecutive images, etc.
-11. **FAITHSCORE**: [Evaluating Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2311.01477.pdf) (02 November, 2023) [![Star](https://img.shields.io/github/stars/bcdnlp/FAITHSCORE.svg?style=social&label=Star)](https://github.com/bcdnlp/FAITHSCORE)
+12. **FAITHSCORE**: [Evaluating Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2311.01477.pdf) (02 November, 2023) [![Star](https://img.shields.io/github/stars/bcdnlp/FAITHSCORE.svg?style=social&label=Star)](https://github.com/bcdnlp/FAITHSCORE)
      - Reference-free and fine-grained evaluation metric
      - 1) Recognizer : LLM is used for descriptive content identification of LVLM's prediction
      - 2) Decomposer : LLM is used to generate atomic facts based on recognizer's output
      - 3) Verifier   : Visual Entailment Model (e.g. OFA) is used to verify atomic facts with input image
-12. **Bingo**: [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/pdf/2311.03287.pdf) (07 November, 2023)  [![Star](https://img.shields.io/github/stars/gzcch/Bingo.svg?style=social&label=Star)](https://github.com/gzcch/Bingo)
+13. **Bingo**: [Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges](https://arxiv.org/pdf/2311.03287.pdf) (07 November, 2023)  [![Star](https://img.shields.io/github/stars/gzcch/Bingo.svg?style=social&label=Star)](https://github.com/gzcch/Bingo)
      - Total 308 Images and 370 QA Pairs
      - Bias category: Region, OCR and Factual
      - Interferance catogary: Image-to-Image and Text-to-Image
-13. **AMBER**: [An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation](https://arxiv.org/pdf/2311.07397.pdf) (13 November, 2023) [![Star](https://img.shields.io/github/stars/junyangwang0410/AMBER.svg?style=social&label=Star)](https://github.com/junyangwang0410/AMBER)
+14. **AMBER**: [An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation](https://arxiv.org/pdf/2311.07397.pdf) (13 November, 2023) [![Star](https://img.shields.io/github/stars/junyangwang0410/AMBER.svg?style=social&label=Star)](https://github.com/junyangwang0410/AMBER)
      - LLM free evaluation of hallucination using AMBER benchmark
      - Evaluation of hallucination for generative and discriminative task using AMBERSCORE metric (covers existence, attributes and relation types of hallucination)
      - Includes hallucinatory target objects (more likely to be imagined by LVLMs)
-14. **RAH-Bench**: [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) (27 Novemebr, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+15. **RAH-Bench**: [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) (27 Novemebr, 2023) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Introduce fine-grained vision instruction dataset named RAI-30K (built upon panoptic scene graph dataset (PSG))
      - RAH-BENCH vision hallucination evaluation benchmark (3 types: Categorial, Relation and Attribute Hallucination)
      - False Positive Rates as evaluation metric
-15. **Behind the Magic, MERLIM**: [Multi-modal Evaluation Benchmark for Large Image-Language Models](https://arxiv.org/pdf/2312.02219.pdf) (03 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/ojedaf/MERLIM.svg?style=social&label=Star)](https://github.com/ojedaf/MERLIM)
+16. **Behind the Magic, MERLIM**: [Multi-modal Evaluation Benchmark for Large Image-Language Models](https://arxiv.org/pdf/2312.02219.pdf) (03 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/ojedaf/MERLIM.svg?style=social&label=Star)](https://github.com/ojedaf/MERLIM)
      - Proposed a novel test-bed to evaluate IT-LVLMs (Instruction Tuning Large Vision and Language models) on core computer vision tasks
      - Observed poor performance of IT-LVLMs with multiple failure cases in visual grounding
      - Identify problems with IT-LVLMSs like generation of hallucinatory events and sensitivity to the input query 
-16. **CCEval**: [HallE-Switch: Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/pdf/2310.01779.pdf) (03 Decemebr, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
+17. **CCEval**: [HallE-Switch: Controlling Object Hallucination in Large Vision Language Models](https://arxiv.org/pdf/2310.01779.pdf) (03 Decemebr, 2023) [![Star](https://img.shields.io/github/stars/bronyayang/HallE_Switch.svg?style=social&label=Star)](https://github.com/bronyayang/HallE_Switch)
      - Suggest an approach to control object existence hallucination in detailed captions of LVLM
      - Introduced CCEval which is a GPT-4 assisted evaluation method for detailed captioning (Metrics: CHAIR(i&s), Coverage, Average Length, Average Objects)
      - Detailed investigation on LVLM's component that might imfluence hallucination such as alignment of language decoder, volume of instruction data, resolution of input image and so on
      - Introduced a controlling parameters over LLMs (HallE-Control) to condition the inference of objects 
-17. **FGHE**: [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) (04 December, 2023) [![Star](https://img.shields.io/github/stars/Anonymousanoy/FOHE.svg?style=social&label=Star)](https://github.com/Anonymousanoy/FOHE)
+18. **FGHE**: [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) (04 December, 2023) [![Star](https://img.shields.io/github/stars/Anonymousanoy/FOHE.svg?style=social&label=Star)](https://github.com/Anonymousanoy/FOHE)
      - Dealing with fine-grained object hallucination with ReCaption framework 
      - Two stage frame work : 1) Caption generation with help of ChatGPT 2) Finetuning LVLMs on generated captions
      - Inroduced Fine-Grained Object Hallucination Evaluation (FGHE) which similar to POPE. (manually annotted 50 images with 200 binary questions with type multi-object, attributes and behaviour)
-18. **OpenCHAIR**: [Mitigating Open-Vocabulary Caption Hallucinations](https://arxiv.org/pdf/2312.03631.pdf)  (06 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/assafbk/mocha_code.svg?style=social&label=Star)](https://github.com/assafbk/mocha_code)
+19. **OpenCHAIR**: [Mitigating Open-Vocabulary Caption Hallucinations](https://arxiv.org/pdf/2312.03631.pdf)  (06 Decemeber, 2023) [![Star](https://img.shields.io/github/stars/assafbk/mocha_code.svg?style=social&label=Star)](https://github.com/assafbk/mocha_code)
      - soon
-19. **CorrelationQA**: [The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs](https://arxiv.org/pdf/2402.03757.pdf) (06 February, 2024) [![Star](https://img.shields.io/github/stars/MasaiahHan/CorrelationQA.svg?style=social&label=Star)](https://github.com/MasaiahHan/CorrelationQA)
+20. **CorrelationQA**: [The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs](https://arxiv.org/pdf/2402.03757.pdf) (06 February, 2024) [![Star](https://img.shields.io/github/stars/MasaiahHan/CorrelationQA.svg?style=social&label=Star)](https://github.com/MasaiahHan/CorrelationQA)
      - soon
-20. **ViGoR**: [Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling](https://arxiv.org/pdf/2402.06118.pdf) (09 February, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+21. **ViGoR**: [Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling](https://arxiv.org/pdf/2402.06118.pdf) (09 February, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-21. **VQAv2-IDK**: [Visually Dehallucinative Instruction Generation: Know What You Don’t Know](https://arxiv.org/pdf/2402.09717.pdf) (15 February, 2024) [![Star](https://img.shields.io/github/stars/ncsoft/idk.svg?style=social&label=Star)](https://github.com/ncsoft/idk)
+22. **VQAv2-IDK**: [Visually Dehallucinative Instruction Generation: Know What You Don’t Know](https://arxiv.org/pdf/2402.09717.pdf) (15 February, 2024) [![Star](https://img.shields.io/github/stars/ncsoft/idk.svg?style=social&label=Star)](https://github.com/ncsoft/idk)
      - soon
-22. **MHaluBench**: [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/pdf/2402.03190.pdf) (20 February, 2024) [![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star)](https://github.com/OpenKG-ORG/EasyDetect)
+23. **MHaluBench**: [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/pdf/2402.03190.pdf) (20 February, 2024) [![Star](https://img.shields.io/github/stars/OpenKG-ORG/EasyDetect.svg?style=social&label=Star)](https://github.com/OpenKG-ORG/EasyDetect)
      - soon
-23. **MAD-Bench**: [How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts](https://arxiv.org/pdf/2402.13220.pdf) (20 February, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+24. **MAD-Bench**: [How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts](https://arxiv.org/pdf/2402.13220.pdf) (20 February, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-24. **VHTest**: [Visual Hallucinations of Multi-modal Large Language Models](https://arxiv.org/pdf/2402.14683v1.pdf) (22 February, 2024) [![Star](https://img.shields.io/github/stars/wenhuang2000/VHTest.svg?style=social&label=Star)](https://github.com/wenhuang2000/VHTest)
+25. **VHTest**: [Visual Hallucinations of Multi-modal Large Language Models](https://arxiv.org/pdf/2402.14683v1.pdf) (22 February, 2024) [![Star](https://img.shields.io/github/stars/wenhuang2000/VHTest.svg?style=social&label=Star)](https://github.com/wenhuang2000/VHTest)
      - soon
-25. **Hal-Eval**: [A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models](https://arxiv.org/pdf/2402.15721.pdf) (24 February, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+26. **Hal-Eval**: [A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models](https://arxiv.org/pdf/2402.15721.pdf) (24 February, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-26. [Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective](https://arxiv.org/pdf/2403.01373.pdf) (03 March, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+27. [Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective](https://arxiv.org/pdf/2403.01373.pdf) (03 March, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-27. ** EvalDial**: [Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning](https://arxiv.org/pdf/2403.10492.pdf) (15 March, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+28. ** EvalDial**: [Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning](https://arxiv.org/pdf/2403.10492.pdf) (15 March, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-28. **IVL-Hallu**: [PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/pdf/2403.11116.pdf) (17 March, 2024) [![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star)](https://github.com/jiazhen-code/IntrinsicHallu)
+29. **IVL-Hallu**: [PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/pdf/2403.11116.pdf) (17 March, 2024) [![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star)](https://github.com/jiazhen-code/IntrinsicHallu)
      - soon
-29. **Unsolvable Problem Detection**: [Evaluating Trustworthiness of Vision Language Models](https://arxiv.org/pdf/2403.20331) (29 March, 2024) [![Star](https://img.shields.io/github/stars/AtsuMiyai/UPD.svg?style=social&label=Star)](https://github.com/AtsuMiyai/UPD/) 
+30. **Unsolvable Problem Detection**: [Evaluating Trustworthiness of Vision Language Models](https://arxiv.org/pdf/2403.20331) (29 March, 2024) [![Star](https://img.shields.io/github/stars/AtsuMiyai/UPD.svg?style=social&label=Star)](https://github.com/AtsuMiyai/UPD/) 
      - soon
-30. **ALOHa**: [A New Measure for Hallucination in Captioning Models](https://arxiv.org/pdf/2404.02904v1.pdf) (3 April, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+31. **ALOHa**: [A New Measure for Hallucination in Captioning Models](https://arxiv.org/pdf/2404.02904v1.pdf) (3 April, 2024)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon 
-31. **VALOR-EVAL**: [Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2404.13874) (22 April, 2024) [![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star)](https://github.com/haoyiq114/VALOR)
+32. **VALOR-EVAL**: [Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2404.13874) (22 April, 2024) [![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star)](https://github.com/haoyiq114/VALOR)
      - soon 
-32. **THRONE**: [An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/pdf/2405.05256) (08 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+33. **THRONE**: [An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](https://arxiv.org/pdf/2405.05256) (08 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-33. **MRHal-Bench**: [Automated Multi-level Preference for MLLMs](https://arxiv.org/pdf/2405.11165) (18 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+34. **MRHal-Bench**: [Automated Multi-level Preference for MLLMs](https://arxiv.org/pdf/2405.11165) (18 May, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-34. **VLind-Bench**: [Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/pdf/2406.08702) (13 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+35. **VLind-Bench**: [Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/pdf/2406.08702) (13 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-35. **MMRel**: [A Relation Understanding Dataset and Benchmark in the MLLM Era](https://arxiv.org/pdf/2406.09121) (13 June, 2024) [![Star](https://img.shields.io/github/stars/niejiahao1998/MMRel.svg?style=social&label=Star)](https://github.com/niejiahao1998/MMRel)
+36. **MMRel**: [A Relation Understanding Dataset and Benchmark in the MLLM Era](https://arxiv.org/pdf/2406.09121) (13 June, 2024) [![Star](https://img.shields.io/github/stars/niejiahao1998/MMRel.svg?style=social&label=Star)](https://github.com/niejiahao1998/MMRel)
      - soon
-36. **Med-HallMark**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+37. **Med-HallMark**: [Detecting and Evaluating Medical Hallucinations in Large Vision Language Models](https://arxiv.org/pdf/2406.10185) (14 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Medical field hallucination benchmark
      - MediHall Score - evaluation metric
-37. **AUTOHALLUSION**: [Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/pdf/2406.10900) (16 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+38. **AUTOHALLUSION**: [Automatic Generation of Hallucination Benchmarks for Vision-Language Models](https://arxiv.org/pdf/2406.10900) (16 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-38. **MFC-Bench**: [Benchmarking Multimodal Fact-Checking with Large Vision-Language Models](https://arxiv.org/pdf/2406.11288) (17 June, 2024) [![Star](https://img.shields.io/github/stars/wskbest/MFC-Bench.svg?style=social&label=Star)](https://github.com/wskbest/MFC-Bench)
+39. **MFC-Bench**: [Benchmarking Multimodal Fact-Checking with Large Vision-Language Models](https://arxiv.org/pdf/2406.11288) (17 June, 2024) [![Star](https://img.shields.io/github/stars/wskbest/MFC-Bench.svg?style=social&label=Star)](https://github.com/wskbest/MFC-Bench)
      - soon
-39. **CHAIR-MEN**: [Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?](https://arxiv.org/pdf/2406.14492) (20 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+40. **CHAIR-MEN**: [Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?](https://arxiv.org/pdf/2406.14492) (20 June, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-40. **R-BENCH**: [Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2406.16449) (24 June, 2024) (ICML2024) [![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star)](https://github.com/mrwu-mac/R-Bench)
+41. **R-BENCH**: [Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2406.16449) (24 June, 2024) (ICML2024) [![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star)](https://github.com/mrwu-mac/R-Bench)
      - Introduce an evaluation benchmark to tackle relation type of hallucination 
      - soon
-41. **HQH**: [Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org/pdf/2406.17115) (24 June, 2024)  [![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star)](https://github.com/HQHBench/HQHBench)
+42. **HQH**: [Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org/pdf/2406.17115) (24 June, 2024)  [![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star)](https://github.com/HQHBench/HQHBench)
      - Propose a framework called Hallucination benchmark Quality Measurement (HQM) to assess the quality of existing hallucination benchmarks
      - soon
-42. **VideoHallucer**: [Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](https://arxiv.org/pdf/2406.16338) (24 June, 2024) [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer)
+43. **VideoHallucer**: [Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](https://arxiv.org/pdf/2406.16338) (24 June, 2024) [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer)
      - soon
-43. **MMHalSnowball**: [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/pdf/2407.00569) (30 June, 2024)  [![Star](https://img.shields.io/github/stars/whongzhong/MMHalSnowball.svg?style=social&label=Star)](https://github.com/whongzhong/MMHalSnowball)
+44. **MMHalSnowball**: [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/pdf/2407.00569) (30 June, 2024)  [![Star](https://img.shields.io/github/stars/whongzhong/MMHalSnowball.svg?style=social&label=Star)](https://github.com/whongzhong/MMHalSnowball)
      - soon
-44. **MedVH**: [Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context](https://arxiv.org/pdf/2407.02730) (03 July, 2024) [![Star](https://img.shields.io/github/stars/dongzizhu/MedVH.svg?style=social&label=Star)](https://github.com/dongzizhu/MedVH)
+45. **MedVH**: [Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context](https://arxiv.org/pdf/2407.02730) (03 July, 2024) [![Star](https://img.shields.io/github/stars/dongzizhu/MedVH.svg?style=social&label=Star)](https://github.com/dongzizhu/MedVH)
      - soon
-45. **ROPE**: [Multi-Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2407.06192) (08 July, 2024) [![Star](https://img.shields.io/github/stars/sled-group/moh.svg?style=social&label=Star)](https://github.com/sled-group/moh)
+46. **ROPE**: [Multi-Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2407.06192) (08 July, 2024) [![Star](https://img.shields.io/github/stars/sled-group/moh.svg?style=social&label=Star)](https://github.com/sled-group/moh)
      - Deals with multi-object hallucinations and their cause
      - Introduce Recognition-based Object Probing Evaluation (ROPE) for assessing multi-object hallucination
      - In-depth analysis of hallucinatory behaviors
-46. **BEAF**: [Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models](https://arxiv.org/pdf/2407.13442) (18 July, 2024) (ECCV 2024)  [![Star](https://img.shields.io/github/stars/postech-ami/BEAF.svg?style=social&label=Star)](https://github.com/postech-ami/BEAF)
+47. **BEAF**: [Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models](https://arxiv.org/pdf/2407.13442) (18 July, 2024) (ECCV 2024)  [![Star](https://img.shields.io/github/stars/postech-ami/BEAF.svg?style=social&label=Star)](https://github.com/postech-ami/BEAF)
      - Proposed a hallucination evaluation benchmark called BEfore-After (BEAF)
      - New metrics introduced: True Understanding (TU), IGnorance (IG), StuBbornness (SB), and InDecision (ID)
-47. **HaloQuest**: [A Visual Hallucination Dataset for Advancing Multimodal Reasoning](https://arxiv.org/pdf/2407.15680) (22 July, 2024) (ECCV 2024) [![Star](https://img.shields.io/github/stars/google/haloquest.svg?style=social&label=Star)](https://github.com/google/haloquest)
+48. **HaloQuest**: [A Visual Hallucination Dataset for Advancing Multimodal Reasoning](https://arxiv.org/pdf/2407.15680) (22 July, 2024) (ECCV 2024) [![Star](https://img.shields.io/github/stars/google/haloquest.svg?style=social&label=Star)](https://github.com/google/haloquest)
      - Introduced a novel VQA dataset for VLM evaluation
      - soon
-48. **MMINSTRUCT**: [A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](https://arxiv.org/pdf/2407.15838) (22 July, 2024) [![Star](https://img.shields.io/github/stars/yuecao0119/MMInstruct.svg?style=social&label=Star)](https://github.com/yuecao0119/MMInstruct)
+49. **MMINSTRUCT**: [A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity](https://arxiv.org/pdf/2407.15838) (22 July, 2024) [![Star](https://img.shields.io/github/stars/yuecao0119/MMInstruct.svg?style=social&label=Star)](https://github.com/yuecao0119/MMInstruct)
      - Introduced  high-quality and diverse visual instruction tuning dataset
      - Claims SOTA performance of MMINSTRUCT finetuned LLava-1.5 on 10 out of 12 famous benchmarks 
-49. **Hallu-PI**: [ Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs](https://arxiv.org/pdf/2408.01355) (02 August, 2024) [![Star](https://img.shields.io/github/stars/NJUNLP/Hallu-PI.svg?style=social&label=Star)](https://github.com/NJUNLP/Hallu-PI)
+50. **Hallu-PI**: [ Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs](https://arxiv.org/pdf/2408.01355) (02 August, 2024) [![Star](https://img.shields.io/github/stars/NJUNLP/Hallu-PI.svg?style=social&label=Star)](https://github.com/NJUNLP/Hallu-PI)
      - Constructed hallucination evaluation benchmark with perturbed inputs with 7 different purturbed scenarios
      - 12 SOTA MLLMs are benchmarked
-50. **Reefknot**: [A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/pdf/2408.09429) (18th August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+51. **Reefknot**: [A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/pdf/2408.09429) (18th August, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - Introduced a benchmark to evaluate relation hallucination which further catogarized in to Perceptive and Cognitice type
      - 3 evaluation tasks: Yes/No, MCQ, VQA
      - code and dataset will be released after paper's acceptance  
-51. **Pfram**: [Understanding Multimodal Hallucination with Parameter-Free Representation Alignment](https://arxiv.org/pdf/2409.01151) (02 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+52. **Pfram**: [Understanding Multimodal Hallucination with Parameter-Free Representation Alignment](https://arxiv.org/pdf/2409.01151) (02 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-52. **ODE**: [Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2409.09318) (14 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+53. **ODE**: [Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2409.09318) (14 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-53. **LLSAVisionQA**: [Explore the Hallucination on Low-level Perception for MLLMs](https://arxiv.org/pdf/2409.09748) (15 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+54. **LLSAVisionQA**: [Explore the Hallucination on Low-level Perception for MLLMs](https://arxiv.org/pdf/2409.09748) (15 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-54. **CAST**: [Cross-modal Alignment Similarity Test for Vision Language Models](https://arxiv.org/pdf/2409.11007) (17 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+55. **CAST**: [Cross-modal Alignment Similarity Test for Vision Language Models](https://arxiv.org/pdf/2409.11007) (17 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-55. **JourneyBench**: [Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images](https://arxiv.org/pdf/2409.12953) (25 September, 2024) [![Star](https://img.shields.io/github/stars/JourneyBench/JourneyBench.svg?style=social&label=Star)](https://github.com/JourneyBench/JourneyBench)
+56. **JourneyBench**: [Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images](https://arxiv.org/pdf/2409.12953) (25 September, 2024) [![Star](https://img.shields.io/github/stars/JourneyBench/JourneyBench.svg?style=social&label=Star)](https://github.com/JourneyBench/JourneyBench)
      - soon
-56. **FIHA**: [Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs](https://arxiv.org/pdf/2409.13612) (20 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+57. **FIHA**: [Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs](https://arxiv.org/pdf/2409.13612) (20 September, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - code: [here](https://anonymous.4open.science/r/FIHA-45BB/README.md)
      - soon
-57. **EventHallusion**: [Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/pdf/2409.16597) (25 September, 2024) [![Star](https://img.shields.io/github/stars/Stevetich/EventHallusion.svg?style=social&label=Star)](https://github.com/Stevetich/EventHallusion)
+58. **EventHallusion**: [Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/pdf/2409.16597) (25 September, 2024) [![Star](https://img.shields.io/github/stars/Stevetich/EventHallusion.svg?style=social&label=Star)](https://github.com/Stevetich/EventHallusion)
      - soon
-58. **TUBench**: [Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions](https://arxiv.org/pdf/2410.04107) (05 October, 2024)  [![Star](https://img.shields.io/github/stars/NLPCode/TUBench.svg?style=social&label=Star)](https://github.com/NLPCode/TUBench)
+59. **TUBench**: [Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions](https://arxiv.org/pdf/2410.04107) (05 October, 2024)  [![Star](https://img.shields.io/github/stars/NLPCode/TUBench.svg?style=social&label=Star)](https://github.com/NLPCode/TUBench)
      - soon
-59. **LongHalQA**: [Long-Context Hallucination Evaluation for MultiModal Large Language Models](https://arxiv.org/pdf/2410.09962) (15 October, 2024) [![Star](https://img.shields.io/github/stars/hanqiu-hq/LongHalQA.svg?style=social&label=Star)](https://github.com/hanqiu-hq/LongHalQA)
+60. **LongHalQA**: [Long-Context Hallucination Evaluation for MultiModal Large Language Models](https://arxiv.org/pdf/2410.09962) (15 October, 2024) [![Star](https://img.shields.io/github/stars/hanqiu-hq/LongHalQA.svg?style=social&label=Star)](https://github.com/hanqiu-hq/LongHalQA)
      - soon
-60. **MM-SY**: [Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs](https://arxiv.org/pdf/2410.11302) (15 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+61. **MM-SY**: [Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs](https://arxiv.org/pdf/2410.11302) (15 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon (code and benchmark)
-61. **Magnifier Prompt**: [Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org/pdf/2410.11701) (15 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+62. **Magnifier Prompt**: [Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org/pdf/2410.11701) (15 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-62. **DeCo**: [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](https://arxiv.org/pdf/2410.11779) (15 October, 2024)  [![Star](https://img.shields.io/github/stars/zjunlp/DeCo.svg?style=social&label=Star)](https://github.com/zjunlp/DeCo)
+63. **DeCo**: [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](https://arxiv.org/pdf/2410.11779) (15 October, 2024)  [![Star](https://img.shields.io/github/stars/zjunlp/DeCo.svg?style=social&label=Star)](https://github.com/zjunlp/DeCo)
      - decoding technique
      - soon
-63. **The Curse of Multi-Modalities**: [Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/pdf/2410.12787) (16 October, 2024) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CMM.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/CMM)
+64. **The Curse of Multi-Modalities**: [Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/pdf/2410.12787) (16 October, 2024) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CMM.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/CMM)
      - soon
-64. **Trust but Verify**: [Programmatic VLM Evaluation in the Wild](https://arxiv.org/pdf/2410.13121) (17 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+65. **Trust but Verify**: [Programmatic VLM Evaluation in the Wild](https://arxiv.org/pdf/2410.13121) (17 October, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - [project_page](https://prove-explorer.netlify.app/)
      - soon
-65. **Tri-HE**: [Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](https://arxiv.org/pdf/2410.23114) (03 November, 2024) [![Star](https://img.shields.io/github/stars/wujunjie1998/Tri-HE.svg?style=social&label=Star)](https://github.com/wujunjie1998/Tri-HE)
+66. **Tri-HE**: [Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models](https://arxiv.org/pdf/2410.23114) (03 November, 2024) [![Star](https://img.shields.io/github/stars/wujunjie1998/Tri-HE.svg?style=social&label=Star)](https://github.com/wujunjie1998/Tri-HE)
      - soon
-66. **H-POPE**: [Hierarchical Polling-based Probing Evaluation of Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2411.04077) (06 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+67. **H-POPE**: [Hierarchical Polling-based Probing Evaluation of Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2411.04077) (06 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-67. **VIDHAL**: [Benchmarking Temporal Hallucinations in Vision LLMs](https://arxiv.org/pdf/2411.16771) (25 November 2024)  [![Star](https://img.shields.io/github/stars/Lookuz/VidHal.svg?style=social&label=Star)](https://github.com/Lookuz/VidHal)
+68. **VIDHAL**: [Benchmarking Temporal Hallucinations in Vision LLMs](https://arxiv.org/pdf/2411.16771) (25 November 2024)  [![Star](https://img.shields.io/github/stars/Lookuz/VidHal.svg?style=social&label=Star)](https://github.com/Lookuz/VidHal)
      - perfromance evaluation on video / frames
      - soon
-68. Up to Date (10th December, 2024) and SOTA research work loading...
+69. Up to Date (10th December, 2024) and SOTA research work loading...
     
 Note: 'soon' will be replaced with brief description! 
 
