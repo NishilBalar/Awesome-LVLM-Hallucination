@@ -574,7 +574,7 @@ Note: 'soon' will be replaced with brief description!
      - code will be released soon
 117. **Socratic Questioning**: [Learn to Self-guide Multimodal Reasoning in the Wild](https://arxiv.org/pdf/2501.02964) (07 January, 2025)  [![Star](https://img.shields.io/github/stars/aibee00/SocraticQuestioning.svg?style=social&label=Star)](https://github.com/aibee00/SocraticQuestioning)
      - soon
-118. **ReDiT**: [ Re‑evaluating large visual question answering model confidence by defining input scenario Difficulty and applying Temperature mapping](https://trebuchet.public.springernature.app/get_content/d37db04d-0d30-4fba-9e61-edc7e190dc0d) (06 January, 2025)  [![Star](https://img.shields.io/github/stars/yejipark-m/ConVis.svg?style=social&label=Star)](https://github.com/modafarshouha/ReDiT)
+118. **ReDiT**: [ Re‑evaluating large visual question answering model confidence by defining input scenario Difficulty and applying Temperature mapping](https://trebuchet.public.springernature.app/get_content/d37db04d-0d30-4fba-9e61-edc7e190dc0d) (06 January, 2025)  [![Star](https://img.shields.io/github/stars/modafarshouha/ReDiT.svg?style=social&label=Star)](https://github.com/modafarshouha/ReDiT)
      - [project page](https://github.com/modafarshouha/ReDiT)
      - The first study to address out-of-distribution (OOD) for large visual question answering (LVQA) models by expanding the classical definition to consider the LMs extensive exposure to data.
      - Define a categorical scale to assess the input scenario difficulty
