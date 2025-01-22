@@ -574,7 +574,13 @@ Note: 'soon' will be replaced with brief description!
      - code will be released soon
 117. **Socratic Questioning**: [Learn to Self-guide Multimodal Reasoning in the Wild](https://arxiv.org/pdf/2501.02964) (07 January, 2025)  [![Star](https://img.shields.io/github/stars/aibee00/SocraticQuestioning.svg?style=social&label=Star)](https://github.com/aibee00/SocraticQuestioning)
      - soon
-118. Up to Date (09th January, 2025) and SOTA research work loading...
+118. **ReDiT**: [ Re‑evaluating large visual question answering model confidence by defining input scenario Difficulty and applying Temperature mapping](https://trebuchet.public.springernature.app/get_content/d37db04d-0d30-4fba-9e61-edc7e190dc0d) (06 January, 2025)  [![Star](https://img.shields.io/github/stars/yejipark-m/ConVis.svg?style=social&label=Star)](https://github.com/modafarshouha/ReDiT)
+     - [project page](https://github.com/modafarshouha/ReDiT)
+     - The first study to address out-of-distribution (OOD) for large visual question answering (LVQA) models by expanding the classical definition to consider the LMs extensive exposure to data.
+     - Define a categorical scale to assess the input scenario difficulty
+     - Re-evaluate the model’s confidence with respect to the input conditions using a temperature parameter in the prediction’s probability score and define its boundaries mathematically
+     - Present a novel dataset; i.e. 3U-VQA, that aids in simulating various challenges for LVQA models
+119. Up to Date (22nd January, 2025) and SOTA research work loading...
 
 
 Note: 'soon' will be replaced with brief description!  
