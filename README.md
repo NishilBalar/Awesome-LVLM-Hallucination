@@ -586,7 +586,13 @@ Note: 'soon' will be replaced with brief description!
      - soon
 121. **llava-fix-hallucination**: [Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model](https://arxiv.org/pdf/2501.12206) (21 January, 2025) [![Star](https://img.shields.io/github/stars/hasanar1f/llava-hallunication-fix.svg?style=social&label=Star)](https://github.com/hasanar1f/llava-hallunication-fix)
      - soon
-122. Up to Date (28th January, 2025) and SOTA research work loading...
+122. **ReDiT**: [Re‑evaluating large visual question answering model confidence by defining input scenario Difficulty and applying Temperature mapping](https://link.springer.com/article/10.1007/s00530-024-01629-w) (06 January, 2025)  [![Star](https://img.shields.io/github/stars/modafarshouha/ReDiT.svg?style=social&label=Star)](https://github.com/modafarshouha/ReDiT)
+     - [project page](https://github.com/modafarshouha/ReDiT)
+     - The first study to address out-of-distribution (OOD) for large visual question answering (LVQA) models by expanding the classical definition to consider the LMs extensive exposure to data
+     - Define a categorical scale to assess the input scenario difficulty
+     - Re-evaluate the model’s confidence with respect to the input conditions using a temperature parameter in the prediction’s probability score and define its boundaries mathematically
+     - Present a novel dataset; i.e. 3U-VQA, that aids in simulating various challenges for LVQA models
+123. Up to Date (28th January, 2025) and SOTA research work loading...
 
 
 Note: 'soon' will be replaced with brief description!  
