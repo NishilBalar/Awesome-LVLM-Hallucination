@@ -210,7 +210,10 @@ The main intention of this project is to provide a platform where all the resear
 71. **Mirage in the Eyes**: [Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink](https://arxiv.org/pdf/2501.15269) (25 January, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - [HF link](https://huggingface.co/RachelHGF/Mirage-in-the-Eyes)
      - soon
-72. Up to Date (28th January, 2025) and SOTA research work loading...
+72. **LanP**: [Rethinking the Impact of Language Priors in Large Vision-Language Models](https://arxiv.org/pdf/2502.12359) (17 February, 2025) [![Star](https://img.shields.io/github/stars/Wu-Zongyu/LanP.svg?style=social&label=Star)](https://github.com/Wu-Zongyu/LanP)
+     - soon
+73. 
+74. 
 Note: 'soon' will be replaced with brief description! 
 
     
@@ -586,7 +589,24 @@ Note: 'soon' will be replaced with brief description!
      - soon
 121. **llava-fix-hallucination**: [Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model](https://arxiv.org/pdf/2501.12206) (21 January, 2025) [![Star](https://img.shields.io/github/stars/hasanar1f/llava-hallunication-fix.svg?style=social&label=Star)](https://github.com/hasanar1f/llava-hallunication-fix)
      - soon
-122. Up to Date (28th January, 2025) and SOTA research work loading...
+122. **CHiP**: [Cross-modal Hierarchical Direct Preference Optimization for Multimodal LLMs](https://arxiv.org/pdf/2501.16629) (28 January, 2025) [![Star](https://img.shields.io/github/stars/LVUGAI/CHiP.svg?style=social&label=Star)](https://github.com/LVUGAI/CHiP)
+     - soon
+123. **Poison as Cure**: [Visual Noise for Mitigating Object Hallucinations in LVMs](https://arxiv.org/pdf/2501.19164) (31 January, 2025) [![Star](https://img.shields.io/github/stars/KejiaZhang-Robust/VAP.svg?style=social&label=Star)](https://github.com/KejiaZhang-Robust/VAP)
+     - soon
+124. **MINT**: [Mitigating Hallucinations in Large Vision-Language Models via Token Reduction](https://arxiv.org/pdf/2502.00717) (02 February, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+125. **IFCD** : [Mitigating Hallucinations in Large Vision-Language Models with Internal Fact-based Contrastive Decoding](https://arxiv.org/pdf/2502.01056) (03 February, 2025)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+126. **UAC/DAC**: [Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration](https://arxiv.org/pdf/2502.01969) (04 February, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+127. **VISTA**: [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering](https://arxiv.org/pdf/2502.03628) (05 February, 2025) [![Star](https://img.shields.io/github/stars/LzVv123456/VISTA.svg?style=social&label=Star)](https://github.com/LzVv123456/VISTA)
+     - soon
+128. **DeGF**: [Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2502.06130) (10 February, 2025)  [![Star](https://img.shields.io/github/stars/zhangce01/DeGF.svg?style=social&label=Star)](https://github.com/zhangce01/DeGF)
+     - soon
+129. **CAP**: [Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting](https://arxiv.org/pdf/2502.08317) (12 February, 2025)  [![Star](https://img.shields.io/github/stars/jwu114/CAP.svg?style=social&label=Star)](https://github.com/jwu114/CAP)
+     - soon
+130. 
+131.  Up to Date (28th January, 2025) and SOTA research work loading...
 
 
 Note: 'soon' will be replaced with brief description!  
