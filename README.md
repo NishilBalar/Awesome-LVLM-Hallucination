@@ -212,8 +212,8 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 72. **LanP**: [Rethinking the Impact of Language Priors in Large Vision-Language Models](https://arxiv.org/pdf/2502.12359) (17 February, 2025) [![Star](https://img.shields.io/github/stars/Wu-Zongyu/LanP.svg?style=social&label=Star)](https://github.com/Wu-Zongyu/LanP)
      - soon
-73. 
-74. 
+73. Up to Date (22th February, 2025) and SOTA research work loading...
+    
 Note: 'soon' will be replaced with brief description! 
 
     
@@ -277,7 +277,9 @@ Note: 'soon' will be replaced with brief description!
      - soon
 19. **Beyond Logit Lens**: [Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/pdf/2411.19187) (28 November, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-20. Up to Date (28th January, 2025) and SOTA research work loading...
+20. **CutPaste&Find**: [Efficient Multimodal Hallucination Detector with Visual-aid Knowledge Base](https://arxiv.org/pdf/2502.12591) (18 February, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+21. Up to Date (22th February, 2025) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
@@ -605,9 +607,11 @@ Note: 'soon' will be replaced with brief description!
      - soon
 129. **CAP**: [Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting](https://arxiv.org/pdf/2502.08317) (12 February, 2025)  [![Star](https://img.shields.io/github/stars/jwu114/CAP.svg?style=social&label=Star)](https://github.com/jwu114/CAP)
      - soon
-130. 
-131.  Up to Date (28th January, 2025) and SOTA research work loading...
-
+130. **RE-ALIGN**: [Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization](https://arxiv.org/pdf/2502.13146) (18 February, 2025) [![Star](https://img.shields.io/github/stars/taco-group/Re-Align.svg?style=social&label=Star)](https://github.com/taco-group/Re-Align)
+     - soon
+131. **Symmetrical Visual Contrastive Optimization (S-VCO)**: [Aligning Vision-Language Models with Minimal Contrastive Images](https://arxiv.org/pdf/2502.13928) (19 February, 2025)  [![Star](https://img.shields.io/github/stars/s-vco/s-vco.svg?style=social&label=Star)](https://github.com/s-vco/s-vco)
+     - soon
+132. Up to Date (22th February, 2025) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description!  
    
@@ -618,4 +622,6 @@ Note: 'soon' will be replaced with brief description!
 4. [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930) (29 April, 2024)  [![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)](https://github.com/showlab/Awesome-MLLM-Hallucination)
 5. [Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2405.09589) (20 May, 2024)
 6. [Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/pdf/2501.02189) (04 January 2025)  [![Star](https://img.shields.io/github/stars/zli12321/VLM-surveys.svg?style=social&label=Star)](https://github.com/zli12321/VLM-surveys)
-7. Up to Date (28th January, 2025) and SOTA research work loading...
+7. Up to Date (22th February, 2025) and SOTA research work loading...
+
+Note: 'soon' will be replaced with brief description!  
