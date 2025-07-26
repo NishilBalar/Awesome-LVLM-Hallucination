@@ -7,11 +7,11 @@ This repository will provide an organized list of state-of-the-art research pape
 The main intention of this project is to provide a platform where all the research work in the field of hallucination in LVLMs is accessed in a constructive way. If you have any suggestions for intersecting work within this field, kindly contribute them by raising an open issue. I am looking forward to fruitful discussion and learning! 
 
 ---
-- [Awesome LVLM Hallucination](#Awesome-LVLM-Hallucination)
-     - [Hallucination Evaluation Benchmark](#Evaluation-Benchmark)
-     - [Hallucination Detection](#Detection)
-     - [Hallucination Mitigation](#Mitigation)
-     - [Survey](#Survey)
+- [Awesome-LVLM-Hallucination ](#awesome-lvlm-hallucination-)
+  - [Evaluation-Benchmark](#evaluation-benchmark)
+  - [Detection](#detection)
+  - [Mitigation](#mitigation)
+  - [Survey](#survey)
  
 ---
 
@@ -686,7 +686,11 @@ Note: 'soon' will be replaced with brief description!
      - soon
 155. **TTA Framework**: [Mitigating Image Captioning Hallucinations in Vision-Language Models](https://arxiv.org/pdf/2505.03420) (06 May, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-156. Up to Date (10 May, 2025) and SOTA research work loading...
+156. **SENTINEL**: [Mitigating Object Hallucinations via Sentence-Level Early Intervention](https://arxiv.org/pdf/2507.12455) (21 July, 2025) [![Star](https://img.shields.io/github/stars/wenliangdai/VLP-Object-Hallucination.svg?style=social&label=Star)](https://github.com/pspdada/SENTINEL)
+     - Introduces an automatic, sentence‑level early intervention strategy to prevent and mitigate object hallucinations in LVLM
+     - Compatible with any MLLM architecture without human labeling required
+     - Effectively reduce hallucinations while improving general task performance
+157. Up to Date (21 July, 2025) and SOTA research work loading...
 
 
 Note: 'soon' will be replaced with brief description! 
