@@ -228,7 +228,25 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 80. **MMMC**: [Robust Multimodal Large Language Models Against Modality Conflict](https://arxiv.org/pdf/2507.07151) (09 July, 2025) [![Star](https://img.shields.io/github/stars/zmzhang2000/MMMC.svg?style=social&label=Star)](https://github.com/zmzhang2000/MMMC)
      - soon
-81. Up to Date (27 July, 2025) and SOTA research work loading...
+81. **LOTUS**: [A Leaderboard for Detailed Image Captioning from Quality to Societal Bias and User Preferences](https://arxiv.org/pdf/2507.19362) (25 July, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - [Hugging face link](https://huggingface.co/spaces/nvidia/lotus-vlm-bias-leaderboard)
+     - soon
+82. **MIHBench**: [Benchmarking and Mitigating Multi-Image Hallucinations in Multimodal Large Language Models](https://arxiv.org/pdf/2508.00726) (01 August, 2025) [![Star](https://img.shields.io/github/stars/pgtrece/DAB.svg?style=social&label=Star)](https://github.com/pgtrece/DAB/)
+     - soon
+83. **HOPE**: [What Makes "Good" Distractors for Object Hallucination Evaluation in Large Vision-Language Models?](https://arxiv.org/pdf/2508.06530) (03 August, 2025) [![Star](https://img.shields.io/github/stars/xiemk/HOPE.svg?style=social&label=Star)](https://github.com/xiemk/HOPE)
+     - soon
+84. **SHALE**: [A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](https://arxiv.org/pdf/2508.09584) (14 August, 2025)  [![Star](https://img.shields.io/github/stars/BeiiiY/SHALE.svg?style=social&label=Star)](https://github.com/BeiiiY/SHALE)
+     - soon
+85. **HUmbleBench**: [Measuring Epistemic Humility in Multimodal Large Language Models](https://arxiv.org/pdf/2509.09658) (11 September, 2025)  [![Star](https://img.shields.io/github/stars/maifoundations/HumbleBench.svg?style=social&label=Star)](https://github.com/maifoundations/HumbleBench)
+     - soon
+86. **VHBench-10**: [Diving into Mitigating Hallucinations from a Vision Perspective for Large Vision-Language Models](https://arxiv.org/pdf/2509.13836) (17 September, 2025)  [![Star](https://img.shields.io/github/stars/whwangovo/VisionWeaver.svg?style=social&label=Star)](https://github.com/whwangovo/VisionWeaver)
+     - soon
+87. **ChartHal**: [A Fine-grained Framework Evaluating Hallucination of Large Vision Language Models in Chart Understanding](https://arxiv.org/pdf/2509.17481) (22 September, 2025)  [![Star](https://img.shields.io/github/stars/ymcui/ChartHal.svg?style=social&label=Star)](https://github.com/ymcui/ChartHal)
+     - soon
+88. **ColorBlindnessEval**: [Can Vision-Language Models Pass Color Blindness Tests?](https://arxiv.org/pdf/2509.19070) (23 September, 2025)  [![Star](https://img.shields.io/github/stars/ApplyU-ai/ColorBlindnessEval.svg?style=social&label=Star)](https://github.com/ApplyU-ai/ColorBlindnessEval)
+     - soon
+89. Up to Date (03 October, 2025) and SOTA research work loading...
+
 Note: 'soon' will be replaced with brief description! 
 
     
@@ -313,7 +331,13 @@ Note: 'soon' will be replaced with brief description!
      - soon
 28. **PRE-HAL**: [Visual hallucination detection in large vision-language models via evidential conflict](https://arxiv.org/pdf/2506.19513) (24 June, 2025) [![Star](https://img.shields.io/github/stars/HT86159/Evidential-Conflict.svg?style=social&label=Star)](https://github.com/HT86159/Evidential-Conflict)
      - soon
-29. Up to Date (27 July, 2025) and SOTA research work loading...
+29. **NTP**: [Leveraging NTPs for Efficient Hallucination Detection in VLMs](https://arxiv.org/pdf/2509.20379) (20 September, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - dataset - [link](https://huggingface.co/datasets/wrom/Language-Vision-Hallucinations)
+     - soon
+30. **GLSIM**: [Detecting Object Hallucinations in LVLMs via Global-Local Similarity](https://arxiv.org/pdf/2508.19972) (22 September, 2025) [![Star](https://img.shields.io/github/stars/deeplearning-wisc/glsim.svg?style=social&label=Star)](https://github.com/deeplearning-wisc/glsim)
+     - soon
+31.  Up to Date (03 October, 2025) and SOTA research work loading...
+
 Note: 'soon' will be replaced with brief description! 
 
 ## Mitigation
@@ -787,7 +811,54 @@ Note: 'soon' will be replaced with brief description!
      - soon
 199. **MCA-LLaVA**: [Manhattan Causal Attention for Reducing Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2507.09184) (23 July, 2025)  [![Star](https://img.shields.io/github/stars/ErikZ719/MCA-LLaVA.svg?style=social&label=Star)](https://github.com/ErikZ719/MCA-LLaVA)
      - soon
-200. Up to Date (27 July, 2025) and SOTA research work loading...
+200. **LISA**: [A Layer-wise Integration and Suppression Approach for Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/pdf/2507.19110) (25 July, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+201. **SENITEL**: [Mitigating Object Hallucinations via Sentence-Level Early Intervention](http://arxiv.org/pdf/2507.12455) (26 July, 2025) [![Star](https://img.shields.io/github/stars/pspdada/SENTINEL.svg?style=social&label=Star)](https://github.com/pspdada/SENTINEL)
+     - soon
+202. **ViHallu**: [See Different, Think Better: Visual Variations Mitigating Hallucinations in LVLMs](https://arxiv.org/pdf/2507.22003) (30 July, 2025)  [![Star](https://img.shields.io/github/stars/oliviadzy/ViHallu.svg?style=social&label=Star)](https://github.com/oliviadzy/ViHallu)
+     - soon
+203.  **MAP**: [Mitigating Hallucinations in Large Vision-Language Models with Map-Level Attention Processing](https://arxiv.org/pdf/2508.01653) (03 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+204.  **Prompt-in-Image**: [Cure or Poison? Embedding Instructions Visually Alters Hallucination in Vision-Language Models](https://arxiv.org/pdf/2508.01678) (03 August, 2025)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+205.  **Modality Bias in LVLMs**: [Analyzing and Mitigating Object Hallucination via Attention Lens](https://arxiv.org/pdf/2508.02419) (04 August, 2025)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+206.  **SAVER**: [Mitigating Hallucinations in Large Vision-Language Models via Style-Aware Visual Early Revision](https://arxiv.org/pdf/2508.03177) (05 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+207.  **IKOD**: [Mitigating Visual Attention Degradation in Large Vision-Language Models](https://arxiv.org/pdf/2508.03469) (05 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+208.  [Hacking Hallucinations of MLLMs with Causal Sufficiency and Necessity](https://arxiv.org/pdf/2508.04182) (06 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+209.  **Obliviate**: [Analyzing and Mitigating Object Hallucination: A Training Bias Perspective](https://arxiv.org/pdf/2508.04567) (06 August, 2025)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - code soon
+210. **TARS**: [MinMax Token-Adaptive Preference Strategy for MLLM Hallucination Reduction](https://arxiv.org/pdf/2507.21584) (09 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+211. **MRFD**: [Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs](https://arxiv.org/pdf/2508.10264) (14 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+212. **MRGD**: [Controlling Multimodal LLMs via Reward-guided Decoding](https://arxiv.org/pdf/2508.11616) (15 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github) 
+     - soon
+213. **CHAIR-DPO**: [Mitigating Hallucinations in Multimodal LLMs via Object-aware Preference Optimization](https://arxiv.org/pdf/2508.20181) (27 August, 2025)  [![Star](https://img.shields.io/github/stars/aimagelab/CHAIR-DPO.svg?style=social&label=Star)](https://github.com/aimagelab/CHAIR-DPO) 
+     - soon
+214. **VPFC**:[Two Causes, Not One: Rethinking Omission and Fabrication Hallucinations in MLLMs](https://arxiv.org/pdf/2509.00371) (30 August, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+215. **D-LEAF**: [Localizing and Correcting Hallucinations in Multimodal LLMs via Layer-to-head Attention Diagnostics](https://arxiv.org/pdf/2509.07864) (09 September, 2025)![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+216. **APASI**: [Mitigating Hallucinations in Large Vision-Language Models by Self-Injecting Hallucinations](https://arxiv.org/pdf/2509.11287) (14 September, 2025)  [![Star](https://img.shields.io/github/stars/davidluciolu/APASI.svg?style=social&label=Star)](https://github.com/davidluciolu/APASI)
+     - soon
+217. **VisionWeaver**: [Diving into Mitigating Hallucinations from a Vision Perspective for Large Vision-Language Models](https://arxiv.org/pdf/2509.13836) (17 September, 2025)  [![Star](https://img.shields.io/github/stars/whwangovo/VisionWeaver.svg?style=social&label=Star)](https://github.com/whwangovo/VisionWeaver)
+     - soon
+218. **Exposing Hallucinations To Suppress Them**: [VLMs Representation Editing With Generative Anchors](https://arxiv.org/pdf/2509.21997) (26 September, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - code soon
+219. **Self-Consistency as a Free Lunch**: [Reducing Hallucinations in Vision-Language Models via Self-Reflection](https://arxiv.org/pdf/2509.23236) (27 September, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+220. **SCPO**: [Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](https://arxiv.org/pdf/2509.24491) (29 September, 2025)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+221. **LayerCD**: [Mitigating Hallucination in Multimodal LLMs with Layer Contrastive Decoding](https://arxiv.org/pdf/2509.25177) (29 September, 2025)  [![Star](https://img.shields.io/github/stars/maifoundations/LayerCD.svg?style=social&label=Star)](https://github.com/maifoundations/LayerCD)
+     - soon
+222. **GACD**: [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](https://arxiv.org/pdf/2509.03113) (01 October, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+     - soon
+223. Up to Date (03 October, 2025) and SOTA research work loading...
+  
 Note: 'soon' will be replaced with brief description! 
    
 ## Survey
@@ -800,5 +871,7 @@ Note: 'soon' will be replaced with brief description!
 7. [Image Captioning Evaluation in the Age of Multimodal LLMs: Challenges and Future Perspectives](https://arxiv.org/pdf/2503.19622) (18 March, 2025)
 8. [Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation](https://arxiv.org/pdf/2503.19622) (25 March, 2025) [![Star](https://img.shields.io/github/stars/Hongcheng-Gao/HAVEN.svg?style=social&label=Star)](https://github.com/Hongcheng-Gao/HAVEN)
 9. **The Mirage of Performance Gains**: [Why Contrastive Decoding Fails to Address Multimodal Hallucination](https://arxiv.org/pdf/2504.10020) (18 April, 2025)
-10. Up to Date (27 July, 2025) and SOTA research work loading...
+10. [A Survey of Multimodal Hallucination Evaluation and Detection](https://arxiv.org/pdf/2507.19024) (25 July, 2025)
+11. [Review of Hallucination Understanding in Large Language and Vision Models](https://arxiv.org/pdf/2510.00034) (26 September, 2025)
+12. Up to Date (03 October, 2025) and SOTA research work loading...
 Note: 'soon' will be replaced with brief description!  
