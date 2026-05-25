@@ -252,8 +252,11 @@ The main intention of this project is to provide a platform where all the resear
      - soon
 91. **What Color Is It**: [What Color Is It? A Text-Interference Multimodal Hallucination Benchmark](https://arxiv.org/pdf/2511.13400v2) (17 November, 2025)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-92.  **MVI-Bench**: [A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/pdf/2511.14159v1) (18 November, 2025)  [![Star](https://img.shields.io/github/stars/chenyil6/MVI-Bench.svg?style=social&label=Star)](https://github.com/chenyil6/MVI-Bench)
-     - soon
+92.  **MVI-Bench**: [A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159) (ICML 2026, 18 November, 2025)  [![Star](https://img.shields.io/github/stars/chenyil6/MVI-Bench.svg?style=social&label=Star)](https://github.com/chenyil6/MVI-Bench)
+     - First comprehensive benchmark specifically targeting how *misleading visual inputs* (rather than misleading text or pure hallucination triggers) undermine LVLM robustness — fills a gap left by HallusionBench / POPE / AMBER
+     - Grounded in three hierarchical levels of visual primitives: **Visual Concept**, **Visual Attribute**, **Visual Relationship**; curated into 6 representative categories with **1,248 expertly annotated VQA instances**
+     - Introduces **MVI-Sensitivity**, a fine-grained robustness metric that characterizes vulnerability at a granular level
+     - Empirical evaluation across **18 SOTA LVLMs** reveals pronounced vulnerabilities to misleading visual inputs and provides actionable insights for building more reliable LVLMs
 93.  **PIH**: [Mechanisms of Prompt-Induced Hallucination in Vision-Language Models](https://arxiv.org/pdf/2601.05201v1) (08 January, 2026)  [![Star](https://img.shields.io/github/stars/michalg04/prompt-induced_hallucinations.svg?style=social&label=Star)](https://github.com/michalg04/prompt-induced_hallucinations)
      - soon
 94.  **CFHR**: [Once Correct, Still Wrong: Counterfactual Hallucination in Multilingual Vision-Language Models](https://arxiv.org/pdf/2602.05437v1) (05 February, 2026)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
