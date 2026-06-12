@@ -259,7 +259,11 @@ The main intention of this project is to provide a platform where all the resear
 94.  **CFHR**: [Once Correct, Still Wrong: Counterfactual Hallucination in Multilingual Vision-Language Models](https://arxiv.org/pdf/2602.05437v1) (05 February, 2026)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - data and code will be released
      - soon
-95.  Up to Date (08 february, 2026) and SOTA research work loading...
+95. **GameplayQA**: [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/abs/2603.24329) (ACL 2026) [![Star](https://img.shields.io/github/stars/HATS-ICT/GameplayQA.svg?style=social&label=Star)](https://github.com/HATS-ICT/GameplayQA)
+     - [project page](https://hats-ict.github.io/gameplayqa/) | [dataset](https://huggingface.co/datasets/wangyz1999/GameplayQA)
+     - Benchmark for POV-synced multi-video understanding of multi-agent 3D gameplay (~2.4K QA pairs, 15 task categories, 3 cognitive levels)
+     - Introduces a structured distractor taxonomy to diagnose when MLLMs hallucinate actions/entities/events not present in the video; error analysis is organized around these hallucination/distractor types
+96.  Up to Date (08 february, 2026) and SOTA research work loading...
 
 Note: 'soon' will be replaced with brief description! 
 
