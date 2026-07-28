@@ -441,6 +441,8 @@ Note: 'soon' will be replaced with brief description!
      - soon
 24. **IDK-Instructions**: [Visually Dehallucinative Instruction Generation: Know What You Don’t Know](https://arxiv.org/pdf/2402.09717.pdf) (15 February, 2024)  [![Star](https://img.shields.io/github/stars/ncsoft/idk.svg?style=social&label=Star)](https://github.com/ncsoft/idk)
      - soon
+**CAP2QA**: [Visually Dehallucinative Instruction Generation](https://arxiv.org/pdf/2402.08348.pdf) (13 February, 2024) [![Star](https://img.shields.io/github/stars/ncsoft/cap2qa.svg?style=social&label=Star)](https://github.com/ncsoft/cap2qa)
+     - Image-aligned visual instruction generation for mitigating LVLM hallucination.
 25. **EFUF**: [Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://arxiv.org/pdf/2402.09801.pdf) (15 February, 2024) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
 26. **LogicCheckGPT**: [Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2402.11622.pdf) (18 february, 2024) [![Star](https://img.shields.io/github/stars/Hyperwjf/LogicCheckGPT.svg?style=social&label=Star)](https://github.com/Hyperwjf/LogicCheckGPT)
