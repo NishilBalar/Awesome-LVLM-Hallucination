@@ -259,9 +259,11 @@ The main intention of this project is to provide a platform where all the resear
 94.  **CFHR**: [Once Correct, Still Wrong: Counterfactual Hallucination in Multilingual Vision-Language Models](https://arxiv.org/pdf/2602.05437v1) (05 February, 2026)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - data and code will be released
      - soon
-95.  Up to Date (08 february, 2026) and SOTA research work loading...
-
-Note: 'soon' will be replaced with brief description! 
+95. **CSR-Bench**: [A Benchmark for Evaluating the Cross-modal Safety and Reliability of MLLMs](https://arxiv.org/abs/2602.03263v1) (03 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+96. Up to Date (28th February, 2026) and SOTA research work loading...
+    
+Note: 'soon' will be replaced with brief description!
 
     
 ## Detection
@@ -362,9 +364,11 @@ Note: 'soon' will be replaced with brief description!
      - soon
 36.  **EUQ**: [Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification](https://arxiv.org/pdf/2602.05535v1) (05 February, 2026)  [![Star](https://img.shields.io/github/stars/HT86159/EUQ.svg?style=social&label=Star)](https://github.com/HT86159/EUQ)
      - soon
-37.  Up to Date (08 february, 2026) and SOTA research work loading...
-
-Note: 'soon' will be replaced with brief description! 
+37. **VAUQ**: [Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation](https://arxiv.org/abs/2602.21054v2) (24 February, 2026) [![Star](https://img.shields.io/github/stars/deeplearning-wisc/vauq.svg?style=social&label=Star)](https://github.com/deeplearning-wisc/vauq)
+      - soon
+38. Up to Date (28th February, 2026) and SOTA research work loading...
+    
+Note: 'soon' will be replaced with brief description!
 
 ## Mitigation
 1. **ObjMLM**: [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/pdf/2210.07688.pdf) (10 February 2023) [![Star](https://img.shields.io/github/stars/wenliangdai/VLP-Object-Hallucination.svg?style=social&label=Star)](https://github.com/wenliangdai/VLP-Object-Hallucination)
@@ -998,9 +1002,53 @@ Note: 'soon' will be replaced with brief description!
      - soon
 277. **KVSmooth**: [KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing](https://arxiv.org/pdf/2602.04268v1) (04 February, 2026)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
      - soon
-278. Up to Date (08 february, 2026) and SOTA research work loading...
-  
-Note: 'soon' will be replaced with brief description! 
+278. **LLL**: [Logit Lens Supervision for Patch-Level Explanations in Vision-Language Models](https://arxiv.org/abs/2602.01530v2) (02 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+279. **IRIS**: [Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](https://arxiv.org/abs/2602.01769v2) (02 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+280. **LASER**: [Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement](https://arxiv.org/abs/2602.04304v1) (04 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+281. **SAKED**: [Mitigating Hallucination in Large Vision-Language Models via Stability-Aware Knowledge Enhanced Decoding](https://arxiv.org/abs/2602.09825v1) (10 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+282. **Scalpel**: [Fine-Grained Alignment of Attention Activation Manifolds via Mixture Gaussian Bridges to Mitigate Multimodal Hallucination](https://arxiv.org/abs/2602.09541v1) (10 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+283. **SchröMind**: [Mitigating Hallucinations in Multimodal Large Language Models via Solving the Schrödinger Bridge Problem](https://arxiv.org/abs/2602.09528v1) (10 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+284. **VALE**: [Attention to details, logits to truth: visual-aware attention and logits enhancement to mitigate hallucinations in LVLMs](https://arxiv.org/abs/2602.09521v1) (10 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+285. **HII-DPO**: [Eliminate Hallucination via Accurate Hallucination-Inducing Counterfactual Images](https://arxiv.org/abs/2602.10425v1) (11 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+286. **REVIS**: [Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2602.11824v2) (12 February, 2026) [![Star](https://img.shields.io/github/stars/antgroup/Revis.svg?style=social&label=Star)](https://github.com/antgroup/Revis)
+      - soon
+287. **OAVCD**: [Mask What Matters: Mitigating Object Hallucinations in Multimodal Large Language Models with Object-Aligned Visual Contrastive Decoding](https://arxiv.org/abs/2602.11737v1) (12 February, 2026) [![Star](https://img.shields.io/github/stars/ratschlab/OA-VCD.svg?style=social&label=Star)](https://github.com/ratschlab/OA-VCD)
+      - soon
+288. **SAVAA**: [Mitigating Hallucinations in LVLMs via Step-wise Adaptive Visual Attention Amplification](https://arxiv.org/abs/2602.13600v2) (14 February, 2026) [![Star](https://img.shields.io/github/stars/JiachengZ01/SAVVA.svg?style=social&label=Star)](https://github.com/JiachengZ01/SAVVA)
+      - soon
+289. **PADE**: [Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2602.15556v1) (17 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+290. **MIRROR**: [Bridging Modality Disconnect in Self-Reflection via Closed-Loop Visually Grounded Verification](https://arxiv.org/abs/2602.18746v3) (21 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+291. **HIME**: [Mitigating Object Hallucinations in LVLMs via Hallucination Insensitivity Model Editing](https://arxiv.org/abs/2602.18711v1) (21 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+292. **CDHR**: [Causal Decoding for Hallucination-Resistant Multimodal Large Language Models](https://arxiv.org/abs/2602.21441v1) (24 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+293. **SCR**: [Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models](https://arxiv.org/abs/2602.22469v2) (25 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+294. **NoLan**: [Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors](https://arxiv.org/abs/2602.22144v1) (25 February, 2026) [![Star](https://img.shields.io/github/stars/lingfengren/NoLan.svg?style=social&label=Star)](https://github.com/lingfengren/NoLan)
+      - soon
+295. **DMAS**: [Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models](https://arxiv.org/abs/2602.21704v1) (25 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+296. **HulluEdit**: [Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2602.22727v1) (26 February, 2026) [![Star](https://img.shields.io/github/stars/VioAgnes/HulluEdit.svg?style=social&label=Star)](https://github.com/VioAgnes/HulluEdit)
+      - soon
+297. **AIR**: [Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation](https://arxiv.org/abs/2602.24041v1) (27 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+298. **ICLA**: [Self-Correction Inside the Model: Leveraging Layer Attention to Mitigate Hallucinations in Large Vision Language Models](https://arxiv.org/abs/2603.00437v1) (28 February, 2026) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+      - soon
+
+299. Up to Date (28th February, 2026) and SOTA research work loading...
+     
+Note: 'soon' will be replaced with brief description!
+
    
 ## Survey
 1. [DEEP LEARNING APPROACHES ON IMAGE CAPTIONING: A REVIEW](https://arxiv.org/pdf/2201.12944.pdf) (22 August, 2023)
